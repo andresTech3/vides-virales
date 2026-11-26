@@ -1,0 +1,78 @@
+name: Generador Diario de Videos Virales
+
+on:
+  schedule:
+    # Todos los dias a las 14:00 UTC (9:00 AM hora Colombia/Peru/EST)
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'Cantidad de videos a generar'
+        required: false
+        default: '2'
+      publish:
+        description: 'Publicar en Buffer cada 5 min'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  producir-y-publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar FFmpeg, Chrome libs y cloudflared
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libasound2t64
+          curl -L https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64 -o cloudflared
+          chmod +x cloudflared
+          sudo mv cloudflared /usr/local/bin/cloudflared
+
+      - name: Instalar dependencias Node y navegador Remotion
+        run: |
+          npm ci
+          npx remotion browser ensure
+
+      - name: Instalar dependencias Python
+        run: |
+          pip install --no-cache-dir numpy edge-tts
+
+      - name: Generar y publicar videos del dia
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL || 'gemini-3.8-flash' }}
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+        run: |
+          COUNT="${{ github.event.inputs.count || '2' }}"
+          PUB_FLAG="--publish"
+          if [ "${{ github.event.inputs.publish }}" = "false" ]; then
+            PUB_FLAG=""
+          fi
+          python scripts/auto_diario.py --count "$COUNT" $PUB_FLAG
+
+      - name: Guardar historial de temas usados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add historial.json
+          git diff --staged --quiet || git commit -m "chore: actualizar historial de temas usados"
+          git push
+

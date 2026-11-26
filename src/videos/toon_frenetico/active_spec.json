@@ -1,0 +1,1000 @@
+{
+  "fps": 30,
+  "durationInFrames": 1288,
+  "characters": {
+    "tu": {
+      "shirt": "#3B82F6",
+      "outfit": "casual",
+      "pants": "#1E293B",
+      "hair": "spiky",
+      "hairColor": "#F59E0B"
+    },
+    "chef": {
+      "shirt": "#F8FAFC",
+      "outfit": "lab_coat",
+      "pants": "#1E293B",
+      "hat": "beret",
+      "hatColor": "#FFFFFF",
+      "mustache": true
+    }
+  },
+  "shots": [
+    {
+      "start": 0,
+      "end": 99,
+      "stage": "office_interior",
+      "horizon": "kitchen_stove",
+      "floorStyle": "tile_checker",
+      "wallColor": "#FEF3C7",
+      "skyMode": "interior_warm",
+      "camFrom": [
+        -3.6,
+        3.2,
+        8.6
+      ],
+      "camTo": [
+        0,
+        2.7,
+        7.0
+      ],
+      "lookFrom": [
+        0,
+        1.7,
+        0
+      ],
+      "lookTo": [
+        0,
+        1.7,
+        0
+      ],
+      "fov": 46,
+      "camEase": "whip",
+      "punch": true,
+      "actors": [
+        {
+          "id": "tu",
+          "pos": [
+            -1.1,
+            0,
+            0.7
+          ],
+          "face": 1,
+          "action": "panic",
+          "expr": "shocked",
+          "bubble": "!!"
+        }
+      ],
+      "props3d": [
+        {
+          "type": "pan_fire",
+          "pos": [
+            0.85,
+            0,
+            0.2
+          ],
+          "scale": 0.9,
+          "label": "WATER"
+        }
+      ]
+    },
+    {
+      "start": 99,
+      "end": 195,
+      "stage": "office_interior",
+      "horizon": "kitchen_stove",
+      "floorStyle": "solid_grid",
+      "floorColor": "#450A0A",
+      "wallColor": "#7F1D1D",
+      "skyMode": "dramatic_dark",
+      "whipBlur": true,
+      "camFrom": [
+        2.4,
+        2.8,
+        7.6
+      ],
+      "camTo": [
+        0,
+        2.5,
+        6.6
+      ],
+      "lookFrom": [
+        0,
+        1.7,
+        0
+      ],
+      "lookTo": [
+        0,
+        1.7,
+        0
+      ],
+      "fov": 46,
+      "punch": true,
+      "flashAt": 103,
+      "shakeAt": 103,
+      "speedLines": "intense",
+      "actors": [
+        {
+          "id": "tu",
+          "pos": [
+            -1.1,
+            0,
+            0.6
+          ],
+          "face": 1,
+          "action": "panic",
+          "expr": "terrified",
+          "bubble": "!!"
+        }
+      ],
+      "props3d": [
+        {
+          "type": "pan_fire",
+          "pos": [
+            0.85,
+            0,
+            0.2
+          ],
+          "scale": 0.95,
+          "label": "WATER"
+        }
+      ],
+      "fx": [
+        {
+          "type": "explosion_plume",
+          "pos": [
+            0.85,
+            1.8,
+            0.2
+          ],
+          "atFrame": 103,
+          "durFrames": 42,
+          "scale": 1.1
+        },
+        {
+          "type": "flames",
+          "pos": [
+            0.85,
+            1.6,
+            0.2
+          ],
+          "atFrame": 105,
+          "durFrames": 80,
+          "scale": 1.2
+        }
+      ]
+    },
+    {
+      "start": 195,
+      "end": 384,
+      "stage": "office_interior",
+      "horizon": "kitchen_stove",
+      "floorStyle": "tile_checker",
+      "wallColor": "#E2E8F0",
+      "skyMode": "day_cyan",
+      "camFrom": [
+        -2.8,
+        2.8,
+        7.4
+      ],
+      "camTo": [
+        0,
+        2.5,
+        6.4
+      ],
+      "lookFrom": [
+        0,
+        1.6,
+        0
+      ],
+      "lookTo": [
+        0,
+        1.6,
+        0
+      ],
+      "fov": 45,
+      "actors": [
+        {
+          "id": "chef",
+          "pos": [
+            -1.0,
+            0,
+            0.6
+          ],
+          "face": 1,
+          "action": "point",
+          "expr": "deadpan",
+          "bubble": "!"
+        }
+      ],
+      "props3d": [
+        {
+          "type": "pan_fire",
+          "pos": [
+            0.85,
+            0,
+            0.2
+          ],
+          "scale": 0.9,
+          "label": "WATER"
+        }
+      ]
+    },
+    {
+      "start": 384,
+      "end": 534,
+      "stage": "office_interior",
+      "horizon": "kitchen_stove",
+      "floorStyle": "solid_grid",
+      "floorColor": "#7C2D12",
+      "wallColor": "#450A0A",
+      "skyMode": "dramatic_dark",
+      "whipBlur": true,
+      "camFrom": [
+        2.2,
+        2.6,
+        7.2
+      ],
+      "camTo": [
+        0,
+        2.4,
+        6.2
+      ],
+      "lookFrom": [
+        0,
+        1.6,
+        0
+      ],
+      "lookTo": [
+        0,
+        1.6,
+        0
+      ],
+      "fov": 45,
+      "punch": true,
+      "shakeAt": 390,
+      "speedLines": "intense",
+      "actors": [
+        {
+          "id": "tu",
+          "pos": [
+            -1.0,
+            0,
+            0.5
+          ],
+          "face": 1,
+          "action": "panic",
+          "expr": "terrified",
+          "bubble": "!!"
+        }
+      ],
+      "props3d": [
+        {
+          "type": "pan_fire",
+          "pos": [
+            0.85,
+            0,
+            0.2
+          ],
+          "scale": 0.95,
+          "label": "WATER"
+        },
+        {
+          "type": "sign",
+          "pos": [
+            0.85,
+            2.6,
+            -0.5
+          ],
+          "label": "300 C+",
+          "color": "#FF5757",
+          "scale": 0.62
+        }
+      ]
+    },
+    {
+      "start": 534,
+      "end": 666,
+      "stage": "office_interior",
+      "horizon": "kitchen_stove",
+      "floorStyle": "solid_grid",
+      "floorColor": "#450A0A",
+      "wallColor": "#7F1D1D",
+      "skyMode": "dramatic_dark",
+      "camFrom": [
+        0,
+        2.4,
+        7.4
+      ],
+      "camTo": [
+        0,
+        3.0,
+        6.6
+      ],
+      "lookFrom": [
+        0,
+        2.2,
+        0
+      ],
+      "lookTo": [
+        0,
+        2.4,
+        0
+      ],
+      "fov": 48,
+      "punch": true,
+      "flashAt": 540,
+      "shakeAt": 540,
+      "speedLines": "intense",
+      "actors": [
+        {
+          "id": "tu",
+          "pos": [
+            -1.1,
+            0,
+            0.6
+          ],
+          "face": 1,
+          "action": "panic",
+          "expr": "terrified",
+          "bubble": "!!"
+        }
+      ],
+      "props3d": [
+        {
+          "type": "pan_fire",
+          "pos": [
+            0.85,
+            0,
+            0.2
+          ],
+          "scale": 1.0,
+          "label": "WATER"
+        }
+      ],
+      "fx": [
+        {
+          "type": "flames",
+          "pos": [
+            0.85,
+            2.0,
+            0.2
+          ],
+          "atFrame": 540,
+          "durFrames": 115,
+          "scale": 1.5
+        },
+        {
+          "type": "explosion_plume",
+          "pos": [
+            0.85,
+            2.5,
+            0.2
+          ],
+          "atFrame": 540,
+          "durFrames": 50,
+          "scale": 1.2
+        }
+      ]
+    },
+    {
+      "start": 666,
+      "end": 885,
+      "stage": "office_interior",
+      "horizon": "kitchen_stove",
+      "floorStyle": "solid_grid",
+      "floorColor": "#7F1D1D",
+      "wallColor": "#1E293B",
+      "skyMode": "dramatic_dark",
+      "whipBlur": true,
+      "camFrom": [
+        -3.0,
+        2.8,
+        7.8
+      ],
+      "camTo": [
+        0,
+        2.5,
+        6.6
+      ],
+      "lookFrom": [
+        0,
+        1.6,
+        0
+      ],
+      "lookTo": [
+        0,
+        1.6,
+        0
+      ],
+      "fov": 46,
+      "punch": true,
+      "shakeAt": 725,
+      "speedLines": "intense",
+      "actors": [
+        {
+          "id": "tu",
+          "pos": [
+            -0.9,
+            0,
+            0.6
+          ],
+          "toPos": [
+            0.5,
+            0,
+            0.6
+          ],
+          "face": 1,
+          "action": "run",
+          "expr": "terrified",
+          "bubble": "!!"
+        }
+      ],
+      "fx": [
+        {
+          "type": "flames",
+          "pos": [
+            -0.8,
+            0.4,
+            0.5
+          ],
+          "atFrame": 725,
+          "durFrames": 140,
+          "scale": 1.2
+        },
+        {
+          "type": "flames",
+          "pos": [
+            1.0,
+            0.4,
+            0.3
+          ],
+          "atFrame": 745,
+          "durFrames": 120,
+          "scale": 1.2
+        }
+      ]
+    },
+    {
+      "start": 885,
+      "end": 1118,
+      "stage": "office_interior",
+      "horizon": "kitchen_stove",
+      "floorStyle": "tile_checker",
+      "wallColor": "#ECFDF5",
+      "skyMode": "day_cyan",
+      "camFrom": [
+        2.8,
+        2.8,
+        7.6
+      ],
+      "camTo": [
+        0,
+        2.5,
+        6.5
+      ],
+      "lookFrom": [
+        0,
+        1.6,
+        0
+      ],
+      "lookTo": [
+        0,
+        1.6,
+        0
+      ],
+      "fov": 46,
+      "camEase": "whip",
+      "punch": true,
+      "actors": [
+        {
+          "id": "chef",
+          "pos": [
+            -1.0,
+            0,
+            0.6
+          ],
+          "face": 1,
+          "action": "point",
+          "expr": "happy",
+          "bubble": "!"
+        }
+      ],
+      "props3d": [
+        {
+          "type": "pan_fire",
+          "pos": [
+            0.85,
+            0,
+            0.2
+          ],
+          "scale": 0.9
+        },
+        {
+          "type": "metal_lid",
+          "pos": [
+            0.85,
+            0,
+            0.2
+          ],
+          "scale": 0.9
+        }
+      ],
+      "fx": [
+        {
+          "type": "sparkles",
+          "pos": [
+            0.85,
+            1.9,
+            0.2
+          ],
+          "atFrame": 975,
+          "durFrames": 60,
+          "scale": 1.0
+        }
+      ]
+    },
+    {
+      "start": 1118,
+      "end": 1208,
+      "stage": "office_interior",
+      "horizon": "kitchen_stove",
+      "floorStyle": "tile_checker",
+      "wallColor": "#F8FAFC",
+      "skyMode": "day_cyan",
+      "camFrom": [
+        0,
+        2.8,
+        7.6
+      ],
+      "camTo": [
+        0,
+        2.5,
+        6.4
+      ],
+      "lookFrom": [
+        0,
+        1.7,
+        0
+      ],
+      "lookTo": [
+        0,
+        1.7,
+        0
+      ],
+      "fov": 45,
+      "punch": true,
+      "actors": [
+        {
+          "id": "tu",
+          "pos": [
+            0,
+            0,
+            0.6
+          ],
+          "face": 1,
+          "action": "talk",
+          "expr": "shocked",
+          "bubble": "?"
+        }
+      ]
+    },
+    {
+      "start": 1208,
+      "end": 1288,
+      "stage": "office_interior",
+      "horizon": "kitchen_stove",
+      "floorStyle": "tile_checker",
+      "wallColor": "#F8FAFC",
+      "skyMode": "day_cyan",
+      "camFrom": [
+        -1.8,
+        2.7,
+        7.6
+      ],
+      "camTo": [
+        0,
+        2.6,
+        6.8
+      ],
+      "lookFrom": [
+        0,
+        1.7,
+        0
+      ],
+      "lookTo": [
+        0,
+        1.8,
+        0
+      ],
+      "fov": 46,
+      "punch": true,
+      "speedLines": true,
+      "actors": [
+        {
+          "id": "tu",
+          "pos": [
+            -0.95,
+            0,
+            0.6
+          ],
+          "face": 1,
+          "action": "celebrate",
+          "expr": "laughing",
+          "bubble": "!"
+        }
+      ],
+      "props3d": [
+        {
+          "type": "sign",
+          "pos": [
+            0.65,
+            0.5,
+            -1.0
+          ],
+          "label": "COMENTA!",
+          "color": "#FFE14D",
+          "scale": 0.72
+        }
+      ],
+      "fx": [
+        {
+          "type": "comic_star",
+          "pos": [
+            0.7,
+            2.3,
+            -0.5
+          ],
+          "atFrame": 1225,
+          "durFrames": 30,
+          "scale": 0.9
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "text": "Si se",
+      "startFrame": 1,
+      "endFrame": 9
+    },
+    {
+      "text": "incendia tu",
+      "startFrame": 10,
+      "endFrame": 30
+    },
+    {
+      "text": "sartén con",
+      "startFrame": 31,
+      "endFrame": 50
+    },
+    {
+      "text": "aceite y",
+      "startFrame": 51,
+      "endFrame": 65
+    },
+    {
+      "text": "le echas",
+      "startFrame": 66,
+      "endFrame": 80
+    },
+    {
+      "text": "agua,",
+      "startFrame": 81,
+      "endFrame": 88
+    },
+    {
+      "text": "acabaste de",
+      "startFrame": 99,
+      "endFrame": 119
+    },
+    {
+      "text": "encender una",
+      "startFrame": 120,
+      "endFrame": 142
+    },
+    {
+      "text": "bomba dentro",
+      "startFrame": 143,
+      "endFrame": 165
+    },
+    {
+      "text": "de tu",
+      "startFrame": 166,
+      "endFrame": 174
+    },
+    {
+      "text": "cocina.",
+      "startFrame": 175,
+      "endFrame": 186
+    },
+    {
+      "text": "El agua",
+      "startFrame": 202,
+      "endFrame": 216
+    },
+    {
+      "text": "es más",
+      "startFrame": 217,
+      "endFrame": 228
+    },
+    {
+      "text": "pesada que",
+      "startFrame": 229,
+      "endFrame": 248
+    },
+    {
+      "text": "el aceite,",
+      "startFrame": 249,
+      "endFrame": 266
+    },
+    {
+      "text": "así que",
+      "startFrame": 277,
+      "endFrame": 290
+    },
+    {
+      "text": "se hunde",
+      "startFrame": 291,
+      "endFrame": 305
+    },
+    {
+      "text": "directo al",
+      "startFrame": 306,
+      "endFrame": 325
+    },
+    {
+      "text": "fondo en",
+      "startFrame": 326,
+      "endFrame": 340
+    },
+    {
+      "text": "menos de",
+      "startFrame": 341,
+      "endFrame": 356
+    },
+    {
+      "text": "un segundo.",
+      "startFrame": 357,
+      "endFrame": 375
+    },
+    {
+      "text": "Como el",
+      "startFrame": 390,
+      "endFrame": 401
+    },
+    {
+      "text": "aceite está",
+      "startFrame": 402,
+      "endFrame": 420
+    },
+    {
+      "text": "a más",
+      "startFrame": 421,
+      "endFrame": 429
+    },
+    {
+      "text": "de trescientos",
+      "startFrame": 430,
+      "endFrame": 453
+    },
+    {
+      "text": "grados,",
+      "startFrame": 454,
+      "endFrame": 464
+    },
+    {
+      "text": "esa agua",
+      "startFrame": 472,
+      "endFrame": 490
+    },
+    {
+      "text": "hierve al",
+      "startFrame": 491,
+      "endFrame": 511
+    },
+    {
+      "text": "instante,",
+      "startFrame": 512,
+      "endFrame": 529
+    },
+    {
+      "text": "se expande",
+      "startFrame": 539,
+      "endFrame": 552
+    },
+    {
+      "text": "mil veces",
+      "startFrame": 553,
+      "endFrame": 564
+    },
+    {
+      "text": "en vapor",
+      "startFrame": 565,
+      "endFrame": 575
+    },
+    {
+      "text": "y dispara",
+      "startFrame": 576,
+      "endFrame": 587
+    },
+    {
+      "text": "bolas de",
+      "startFrame": 588,
+      "endFrame": 597
+    },
+    {
+      "text": "aceite ardiendo",
+      "startFrame": 598,
+      "endFrame": 618
+    },
+    {
+      "text": "por toda",
+      "startFrame": 619,
+      "endFrame": 628
+    },
+    {
+      "text": "la cocina",
+      "startFrame": 629,
+      "endFrame": 641
+    },
+    {
+      "text": "hasta el",
+      "startFrame": 642,
+      "endFrame": 651
+    },
+    {
+      "text": "techo.",
+      "startFrame": 652,
+      "endFrame": 658
+    },
+    {
+      "text": "Peor aún:",
+      "startFrame": 666,
+      "endFrame": 712,
+      "accentColor": "#FF5757"
+    },
+    {
+      "text": "intentar mover",
+      "startFrame": 728,
+      "endFrame": 762
+    },
+    {
+      "text": "la sartén",
+      "startFrame": 763,
+      "endFrame": 784
+    },
+    {
+      "text": "solo riega",
+      "startFrame": 785,
+      "endFrame": 809
+    },
+    {
+      "text": "el fuego",
+      "startFrame": 810,
+      "endFrame": 829
+    },
+    {
+      "text": "por el",
+      "startFrame": 830,
+      "endFrame": 843
+    },
+    {
+      "text": "suelo y",
+      "startFrame": 844,
+      "endFrame": 861
+    },
+    {
+      "text": "tu ropa.",
+      "startFrame": 862,
+      "endFrame": 878,
+      "accentColor": "#FF5757"
+    },
+    {
+      "text": "Lo único",
+      "startFrame": 892,
+      "endFrame": 906
+    },
+    {
+      "text": "que apaga",
+      "startFrame": 907,
+      "endFrame": 922
+    },
+    {
+      "text": "ese incendio",
+      "startFrame": 923,
+      "endFrame": 943
+    },
+    {
+      "text": "en dos",
+      "startFrame": 944,
+      "endFrame": 953
+    },
+    {
+      "text": "segundos",
+      "startFrame": 954,
+      "endFrame": 967
+    },
+    {
+      "text": "es deslizar",
+      "startFrame": 976,
+      "endFrame": 995
+    },
+    {
+      "text": "una tapa",
+      "startFrame": 996,
+      "endFrame": 1010
+    },
+    {
+      "text": "metálica encima",
+      "startFrame": 1011,
+      "endFrame": 1037
+    },
+    {
+      "text": "para quitarle",
+      "startFrame": 1038,
+      "endFrame": 1060
+    },
+    {
+      "text": "el oxígeno",
+      "startFrame": 1061,
+      "endFrame": 1078
+    },
+    {
+      "text": "y apagar",
+      "startFrame": 1079,
+      "endFrame": 1093
+    },
+    {
+      "text": "la estufa.",
+      "startFrame": 1094,
+      "endFrame": 1109,
+      "accentColor": "#4CE88A"
+    },
+    {
+      "text": "Y tú,",
+      "startFrame": 1127,
+      "endFrame": 1133
+    },
+    {
+      "text": "¿qué habrías",
+      "startFrame": 1134,
+      "endFrame": 1153
+    },
+    {
+      "text": "hecho si",
+      "startFrame": 1154,
+      "endFrame": 1167
+    },
+    {
+      "text": "se prende",
+      "startFrame": 1168,
+      "endFrame": 1183
+    },
+    {
+      "text": "tu sartén?",
+      "startFrame": 1184,
+      "endFrame": 1198,
+      "accentColor": "#2CE6FF"
+    },
+    {
+      "text": "Dímelo en",
+      "startFrame": 1211,
+      "endFrame": 1224
+    },
+    {
+      "text": "comentarios y",
+      "startFrame": 1225,
+      "endFrame": 1243
+    },
+    {
+      "text": "sígueme para",
+      "startFrame": 1244,
+      "endFrame": 1261
+    },
+    {
+      "text": "el siguiente.",
+      "startFrame": 1262,
+      "endFrame": 1279
+    }
+  ]
+}

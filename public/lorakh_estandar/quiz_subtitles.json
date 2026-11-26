@@ -1,0 +1,518 @@
+[
+  {
+    "word": "Si",
+    "start": 0.8,
+    "end": 1.298,
+    "part": "arq1"
+  },
+  {
+    "word": "eres",
+    "start": 1.298,
+    "end": 1.795,
+    "part": "arq1"
+  },
+  {
+    "word": "magnético",
+    "start": 1.795,
+    "end": 2.293,
+    "part": "arq1"
+  },
+  {
+    "word": "y",
+    "start": 2.293,
+    "end": 2.79,
+    "part": "arq1"
+  },
+  {
+    "word": "dueño",
+    "start": 2.79,
+    "end": 3.288,
+    "part": "arq1"
+  },
+  {
+    "word": "de",
+    "start": 3.288,
+    "end": 3.786,
+    "part": "arq1"
+  },
+  {
+    "word": "la",
+    "start": 3.786,
+    "end": 4.283,
+    "part": "arq1"
+  },
+  {
+    "word": "noche...",
+    "start": 4.283,
+    "end": 4.781,
+    "part": "arq1"
+  },
+  {
+    "word": "Tu",
+    "start": 4.781,
+    "end": 5.278,
+    "part": "arq1"
+  },
+  {
+    "word": "perfume",
+    "start": 5.278,
+    "end": 5.776,
+    "part": "arq1"
+  },
+  {
+    "word": "es",
+    "start": 5.776,
+    "end": 6.274,
+    "part": "arq1"
+  },
+  {
+    "word": "Midnight",
+    "start": 6.274,
+    "end": 6.771,
+    "part": "arq1"
+  },
+  {
+    "word": "Club.",
+    "start": 6.771,
+    "end": 7.269,
+    "part": "arq1"
+  },
+  {
+    "word": "Seducción",
+    "start": 7.269,
+    "end": 7.766,
+    "part": "arq1"
+  },
+  {
+    "word": "letal.",
+    "start": 7.766,
+    "end": 8.264,
+    "part": "arq1"
+  },
+  {
+    "word": "Si",
+    "start": 10.8,
+    "end": 11.339,
+    "part": "arq2"
+  },
+  {
+    "word": "eres",
+    "start": 11.339,
+    "end": 11.878,
+    "part": "arq2"
+  },
+  {
+    "word": "ambicioso",
+    "start": 11.878,
+    "end": 12.418,
+    "part": "arq2"
+  },
+  {
+    "word": "y",
+    "start": 12.418,
+    "end": 12.957,
+    "part": "arq2"
+  },
+  {
+    "word": "buscas",
+    "start": 12.957,
+    "end": 13.496,
+    "part": "arq2"
+  },
+  {
+    "word": "elegancia",
+    "start": 13.496,
+    "end": 14.035,
+    "part": "arq2"
+  },
+  {
+    "word": "exclusiva...",
+    "start": 14.035,
+    "end": 14.574,
+    "part": "arq2"
+  },
+  {
+    "word": "Tu",
+    "start": 14.574,
+    "end": 15.114,
+    "part": "arq2"
+  },
+  {
+    "word": "perfume",
+    "start": 15.114,
+    "end": 15.653,
+    "part": "arq2"
+  },
+  {
+    "word": "es",
+    "start": 15.653,
+    "end": 16.192,
+    "part": "arq2"
+  },
+  {
+    "word": "Royal",
+    "start": 16.192,
+    "end": 16.731,
+    "part": "arq2"
+  },
+  {
+    "word": "Gold.",
+    "start": 16.731,
+    "end": 17.27,
+    "part": "arq2"
+  },
+  {
+    "word": "Poder",
+    "start": 17.27,
+    "end": 17.81,
+    "part": "arq2"
+  },
+  {
+    "word": "y",
+    "start": 17.81,
+    "end": 18.349,
+    "part": "arq2"
+  },
+  {
+    "word": "distinción.",
+    "start": 18.349,
+    "end": 18.888,
+    "part": "arq2"
+  },
+  {
+    "word": "Si",
+    "start": 20.8,
+    "end": 21.354,
+    "part": "arq3"
+  },
+  {
+    "word": "eres",
+    "start": 21.354,
+    "end": 21.907,
+    "part": "arq3"
+  },
+  {
+    "word": "libre,",
+    "start": 21.907,
+    "end": 22.461,
+    "part": "arq3"
+  },
+  {
+    "word": "activo",
+    "start": 22.461,
+    "end": 23.014,
+    "part": "arq3"
+  },
+  {
+    "word": "y",
+    "start": 23.014,
+    "end": 23.568,
+    "part": "arq3"
+  },
+  {
+    "word": "lleno",
+    "start": 23.568,
+    "end": 24.122,
+    "part": "arq3"
+  },
+  {
+    "word": "de",
+    "start": 24.122,
+    "end": 24.675,
+    "part": "arq3"
+  },
+  {
+    "word": "energía...",
+    "start": 24.675,
+    "end": 25.229,
+    "part": "arq3"
+  },
+  {
+    "word": "Tu",
+    "start": 25.229,
+    "end": 25.782,
+    "part": "arq3"
+  },
+  {
+    "word": "perfume",
+    "start": 25.782,
+    "end": 26.336,
+    "part": "arq3"
+  },
+  {
+    "word": "es",
+    "start": 26.336,
+    "end": 26.89,
+    "part": "arq3"
+  },
+  {
+    "word": "Sapphire",
+    "start": 26.89,
+    "end": 27.443,
+    "part": "arq3"
+  },
+  {
+    "word": "Ice.",
+    "start": 27.443,
+    "end": 27.997,
+    "part": "arq3"
+  },
+  {
+    "word": "Frescura",
+    "start": 27.997,
+    "end": 28.55,
+    "part": "arq3"
+  },
+  {
+    "word": "explosiva.",
+    "start": 28.55,
+    "end": 29.104,
+    "part": "arq3"
+  },
+  {
+    "word": "Si",
+    "start": 30.8,
+    "end": 31.41,
+    "part": "arq4"
+  },
+  {
+    "word": "eres",
+    "start": 31.41,
+    "end": 32.021,
+    "part": "arq4"
+  },
+  {
+    "word": "carismático,",
+    "start": 32.021,
+    "end": 32.631,
+    "part": "arq4"
+  },
+  {
+    "word": "dulce",
+    "start": 32.631,
+    "end": 33.241,
+    "part": "arq4"
+  },
+  {
+    "word": "y",
+    "start": 33.241,
+    "end": 33.851,
+    "part": "arq4"
+  },
+  {
+    "word": "seductor",
+    "start": 33.851,
+    "end": 34.462,
+    "part": "arq4"
+  },
+  {
+    "word": "natural...",
+    "start": 34.462,
+    "end": 35.072,
+    "part": "arq4"
+  },
+  {
+    "word": "Tu",
+    "start": 35.072,
+    "end": 35.682,
+    "part": "arq4"
+  },
+  {
+    "word": "perfume",
+    "start": 35.682,
+    "end": 36.293,
+    "part": "arq4"
+  },
+  {
+    "word": "es",
+    "start": 36.293,
+    "end": 36.903,
+    "part": "arq4"
+  },
+  {
+    "word": "Velvet",
+    "start": 36.903,
+    "end": 37.513,
+    "part": "arq4"
+  },
+  {
+    "word": "Amber.",
+    "start": 37.513,
+    "end": 38.123,
+    "part": "arq4"
+  },
+  {
+    "word": "Atracción",
+    "start": 38.123,
+    "end": 38.734,
+    "part": "arq4"
+  },
+  {
+    "word": "magnética.",
+    "start": 38.734,
+    "end": 39.344,
+    "part": "arq4"
+  },
+  {
+    "word": "Y",
+    "start": 40.8,
+    "end": 41.344,
+    "part": "arq5"
+  },
+  {
+    "word": "si",
+    "start": 41.344,
+    "end": 41.889,
+    "part": "arq5"
+  },
+  {
+    "word": "eres",
+    "start": 41.889,
+    "end": 42.433,
+    "part": "arq5"
+  },
+  {
+    "word": "sobrio,",
+    "start": 42.433,
+    "end": 42.978,
+    "part": "arq5"
+  },
+  {
+    "word": "imponente",
+    "start": 42.978,
+    "end": 43.522,
+    "part": "arq5"
+  },
+  {
+    "word": "y",
+    "start": 43.522,
+    "end": 44.067,
+    "part": "arq5"
+  },
+  {
+    "word": "buscas",
+    "start": 44.067,
+    "end": 44.611,
+    "part": "arq5"
+  },
+  {
+    "word": "máxima",
+    "start": 44.611,
+    "end": 45.156,
+    "part": "arq5"
+  },
+  {
+    "word": "fijación...",
+    "start": 45.156,
+    "end": 45.7,
+    "part": "arq5"
+  },
+  {
+    "word": "Tu",
+    "start": 45.7,
+    "end": 46.245,
+    "part": "arq5"
+  },
+  {
+    "word": "perfume",
+    "start": 46.245,
+    "end": 46.789,
+    "part": "arq5"
+  },
+  {
+    "word": "es",
+    "start": 46.789,
+    "end": 47.334,
+    "part": "arq5"
+  },
+  {
+    "word": "Nocturne",
+    "start": 47.334,
+    "end": 47.878,
+    "part": "arq5"
+  },
+  {
+    "word": "Extrait.",
+    "start": 47.878,
+    "end": 48.423,
+    "part": "arq5"
+  },
+  {
+    "word": "Autoridad",
+    "start": 48.423,
+    "end": 48.967,
+    "part": "arq5"
+  },
+  {
+    "word": "pura.",
+    "start": 48.968,
+    "end": 49.512,
+    "part": "arq5"
+  },
+  {
+    "word": "¿Cuál",
+    "start": 51.5,
+    "end": 52.1,
+    "part": "outro"
+  },
+  {
+    "word": "eres",
+    "start": 52.1,
+    "end": 52.7,
+    "part": "outro"
+  },
+  {
+    "word": "tú?",
+    "start": 52.7,
+    "end": 53.3,
+    "part": "outro"
+  },
+  {
+    "word": "Comenta",
+    "start": 53.3,
+    "end": 53.9,
+    "part": "outro"
+  },
+  {
+    "word": "tu",
+    "start": 53.9,
+    "end": 54.5,
+    "part": "outro"
+  },
+  {
+    "word": "número",
+    "start": 54.5,
+    "end": 55.1,
+    "part": "outro"
+  },
+  {
+    "word": "aquí",
+    "start": 55.1,
+    "end": 55.7,
+    "part": "outro"
+  },
+  {
+    "word": "abajo.",
+    "start": 55.7,
+    "end": 56.3,
+    "part": "outro"
+  },
+  {
+    "word": "Lorakh",
+    "start": 56.3,
+    "end": 56.9,
+    "part": "outro"
+  },
+  {
+    "word": "Fragrance",
+    "start": 56.9,
+    "end": 57.5,
+    "part": "outro"
+  },
+  {
+    "word": "House.",
+    "start": 57.5,
+    "end": 58.1,
+    "part": "outro"
+  }
+]

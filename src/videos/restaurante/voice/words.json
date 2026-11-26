@@ -1,0 +1,967 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.233916,
+    "content": "A"
+  },
+  {
+    "start": 0.245083,
+    "end": 0.680333,
+    "content": "restaurant"
+  },
+  {
+    "start": 0.6915,
+    "end": 0.81425,
+    "content": "in"
+  },
+  {
+    "start": 0.825458,
+    "end": 1.037499,
+    "content": "Rome"
+  },
+  {
+    "start": 1.048666,
+    "end": 1.305374,
+    "content": "placed"
+  },
+  {
+    "start": 1.3165,
+    "end": 1.461583,
+    "content": "two"
+  },
+  {
+    "start": 1.47275,
+    "end": 1.829875,
+    "content": "plastic"
+  },
+  {
+    "start": 1.841083,
+    "end": 2.298666,
+    "content": "mannequins"
+  },
+  {
+    "start": 2.309833,
+    "end": 2.421458,
+    "content": "at"
+  },
+  {
+    "start": 2.432583,
+    "end": 2.477208,
+    "content": "a"
+  },
+  {
+    "start": 2.488375,
+    "end": 2.8455,
+    "content": "window"
+  },
+  {
+    "start": 2.856708,
+    "end": 3.269666,
+    "content": "table"
+  },
+  {
+    "start": 4.034375,
+    "end": 4.224125,
+    "content": "By"
+  },
+  {
+    "start": 4.23525,
+    "end": 4.715166,
+    "content": "Friday"
+  },
+  {
+    "start": 4.871416,
+    "end": 4.971874,
+    "content": "they"
+  },
+  {
+    "start": 4.983041,
+    "end": 5.150457,
+    "content": "had"
+  },
+  {
+    "start": 5.161625,
+    "end": 5.20625,
+    "content": "a"
+  },
+  {
+    "start": 5.217416,
+    "end": 5.842416,
+    "content": "waitlist"
+  },
+  {
+    "start": 6.6125,
+    "end": 6.880375,
+    "content": "No"
+  },
+  {
+    "start": 6.8915,
+    "end": 7.103541,
+    "content": "new"
+  },
+  {
+    "start": 7.11475,
+    "end": 7.806708,
+    "content": "recipes"
+  },
+  {
+    "start": 8.576791,
+    "end": 8.833499,
+    "content": "No"
+  },
+  {
+    "start": 8.844625,
+    "end": 9.1125,
+    "content": "paid"
+  },
+  {
+    "start": 9.123666,
+    "end": 9.503124,
+    "content": "ads"
+  },
+  {
+    "start": 10.273208,
+    "end": 10.451791,
+    "content": "They"
+  },
+  {
+    "start": 10.462958,
+    "end": 10.686166,
+    "content": "just"
+  },
+  {
+    "start": 10.697333,
+    "end": 10.887083,
+    "content": "looked"
+  },
+  {
+    "start": 10.898208,
+    "end": 11.255333,
+    "content": "full"
+  },
+  {
+    "start": 12.025458,
+    "end": 12.282166,
+    "content": "Because"
+  },
+  {
+    "start": 12.293291,
+    "end": 12.628124,
+    "content": "diners"
+  },
+  {
+    "start": 12.639291,
+    "end": 12.851332,
+    "content": "don't"
+  },
+  {
+    "start": 12.8625,
+    "end": 13.152666,
+    "content": "choose"
+  },
+  {
+    "start": 13.163833,
+    "end": 13.599083,
+    "content": "food"
+  },
+  {
+    "start": 14.369208,
+    "end": 14.558958,
+    "content": "They"
+  },
+  {
+    "start": 14.570083,
+    "end": 14.893749,
+    "content": "choose"
+  },
+  {
+    "start": 14.904916,
+    "end": 15.061166,
+    "content": "what"
+  },
+  {
+    "start": 15.072333,
+    "end": 15.407166,
+    "content": "everyone"
+  },
+  {
+    "start": 15.418291,
+    "end": 15.596874,
+    "content": "else"
+  },
+  {
+    "start": 15.608041,
+    "end": 15.730791,
+    "content": "is"
+  },
+  {
+    "start": 15.741958,
+    "end": 16.233041,
+    "content": "choosing"
+  },
+  {
+    "start": 17.003125,
+    "end": 17.192875,
+    "content": "An"
+  },
+  {
+    "start": 17.204,
+    "end": 17.471875,
+    "content": "empty"
+  },
+  {
+    "start": 17.483041,
+    "end": 17.762041,
+    "content": "room"
+  },
+  {
+    "start": 17.773208,
+    "end": 18.197333,
+    "content": "signals"
+  },
+  {
+    "start": 18.2085,
+    "end": 18.610291,
+    "content": "risk"
+  },
+  {
+    "start": 19.380375,
+    "end": 19.514291,
+    "content": "A"
+  },
+  {
+    "start": 19.525458,
+    "end": 19.793333,
+    "content": "packed"
+  },
+  {
+    "start": 19.804458,
+    "end": 20.072333,
+    "content": "one"
+  },
+  {
+    "start": 20.0835,
+    "end": 20.485291,
+    "content": "signals"
+  },
+  {
+    "start": 20.496416,
+    "end": 20.987499,
+    "content": "quality"
+  },
+  {
+    "start": 21.757583,
+    "end": 22.114708,
+    "content": "Rule"
+  },
+  {
+    "start": 22.125875,
+    "end": 22.382583,
+    "content": "one"
+  },
+  {
+    "start": 22.561166,
+    "end": 22.873666,
+    "content": "window"
+  },
+  {
+    "start": 22.884833,
+    "end": 23.219666,
+    "content": "seats"
+  },
+  {
+    "start": 23.230791,
+    "end": 23.699541,
+    "content": "first"
+  },
+  {
+    "start": 24.469625,
+    "end": 24.648208,
+    "content": "If"
+  },
+  {
+    "start": 24.659375,
+    "end": 24.759833,
+    "content": "you"
+  },
+  {
+    "start": 24.771,
+    "end": 24.916083,
+    "content": "have"
+  },
+  {
+    "start": 24.92725,
+    "end": 25.183958,
+    "content": "six"
+  },
+  {
+    "start": 25.195083,
+    "end": 25.574541,
+    "content": "tables"
+  },
+  {
+    "start": 25.585708,
+    "end": 25.820083,
+    "content": "open"
+  },
+  {
+    "start": 25.83125,
+    "end": 25.920541,
+    "content": "on"
+  },
+  {
+    "start": 25.931708,
+    "end": 25.976333,
+    "content": "a"
+  },
+  {
+    "start": 25.9875,
+    "end": 26.445083,
+    "content": "Tuesday"
+  },
+  {
+    "start": 26.668291,
+    "end": 26.846874,
+    "content": "seat"
+  },
+  {
+    "start": 26.858041,
+    "end": 26.991957,
+    "content": "your"
+  },
+  {
+    "start": 27.003125,
+    "end": 27.337958,
+    "content": "first"
+  },
+  {
+    "start": 27.349125,
+    "end": 27.605833,
+    "content": "guests"
+  },
+  {
+    "start": 27.616958,
+    "end": 27.884833,
+    "content": "right"
+  },
+  {
+    "start": 27.896,
+    "end": 27.974125,
+    "content": "in"
+  },
+  {
+    "start": 27.98525,
+    "end": 28.041041,
+    "content": "the"
+  },
+  {
+    "start": 28.05225,
+    "end": 28.521,
+    "content": "window"
+  },
+  {
+    "start": 29.291083,
+    "end": 29.659374,
+    "content": "Window"
+  },
+  {
+    "start": 29.670541,
+    "end": 29.971874,
+    "content": "seats"
+  },
+  {
+    "start": 29.983041,
+    "end": 30.016541,
+    "content": "are"
+  },
+  {
+    "start": 30.027666,
+    "end": 30.195082,
+    "content": "your"
+  },
+  {
+    "start": 30.20625,
+    "end": 30.462958,
+    "content": "most"
+  },
+  {
+    "start": 30.474125,
+    "end": 30.920541,
+    "content": "powerful"
+  },
+  {
+    "start": 30.931708,
+    "end": 31.366958,
+    "content": "billboard"
+  },
+  {
+    "start": 31.523208,
+    "end": 31.612499,
+    "content": "and"
+  },
+  {
+    "start": 31.623666,
+    "end": 31.712957,
+    "content": "they"
+  },
+  {
+    "start": 31.724125,
+    "end": 32.025458,
+    "content": "cost"
+  },
+  {
+    "start": 32.036625,
+    "end": 32.449583,
+    "content": "nothing"
+  },
+  {
+    "start": 33.219625,
+    "end": 33.532125,
+    "content": "Rule"
+  },
+  {
+    "start": 33.543291,
+    "end": 33.833457,
+    "content": "two"
+  },
+  {
+    "start": 34.045541,
+    "end": 34.123666,
+    "content": "the"
+  },
+  {
+    "start": 34.134833,
+    "end": 34.547791,
+    "content": "surprise"
+  },
+  {
+    "start": 34.558916,
+    "end": 35.038832,
+    "content": "dessert"
+  },
+  {
+    "start": 35.808916,
+    "end": 36.099082,
+    "content": "Bring"
+  },
+  {
+    "start": 36.11025,
+    "end": 36.177208,
+    "content": "an"
+  },
+  {
+    "start": 36.188375,
+    "end": 36.757583,
+    "content": "unexpected"
+  },
+  {
+    "start": 36.76875,
+    "end": 37.036625,
+    "content": "treat"
+  },
+  {
+    "start": 37.04775,
+    "end": 37.32675,
+    "content": "before"
+  },
+  {
+    "start": 37.337958,
+    "end": 37.427249,
+    "content": "the"
+  },
+  {
+    "start": 37.438375,
+    "end": 37.806666,
+    "content": "check"
+  },
+  {
+    "start": 38.576791,
+    "end": 38.799999,
+    "content": "When"
+  },
+  {
+    "start": 38.811166,
+    "end": 39.067874,
+    "content": "people"
+  },
+  {
+    "start": 39.079,
+    "end": 39.413833,
+    "content": "receive"
+  },
+  {
+    "start": 39.425,
+    "end": 39.514291,
+    "content": "an"
+  },
+  {
+    "start": 39.525458,
+    "end": 40.105833,
+    "content": "unexpected"
+  },
+  {
+    "start": 40.116958,
+    "end": 40.429458,
+    "content": "gift"
+  },
+  {
+    "start": 40.608041,
+    "end": 41.177249,
+    "content": "psychology"
+  },
+  {
+    "start": 41.188375,
+    "end": 41.478541,
+    "content": "takes"
+  },
+  {
+    "start": 41.48975,
+    "end": 41.858041,
+    "content": "over"
+  },
+  {
+    "start": 42.628125,
+    "end": 42.795541,
+    "content": "They"
+  },
+  {
+    "start": 42.806708,
+    "end": 43.052249,
+    "content": "tip"
+  },
+  {
+    "start": 43.063375,
+    "end": 43.409375,
+    "content": "more"
+  },
+  {
+    "start": 44.179458,
+    "end": 44.346874,
+    "content": "They"
+  },
+  {
+    "start": 44.358041,
+    "end": 44.570082,
+    "content": "come"
+  },
+  {
+    "start": 44.58125,
+    "end": 44.782125,
+    "content": "back"
+  },
+  {
+    "start": 44.793291,
+    "end": 45.250874,
+    "content": "sooner"
+  },
+  {
+    "start": 46.021,
+    "end": 46.199583,
+    "content": "They"
+  },
+  {
+    "start": 46.210708,
+    "end": 46.467416,
+    "content": "tell"
+  },
+  {
+    "start": 46.478583,
+    "end": 46.980833,
+    "content": "friends"
+  },
+  {
+    "start": 47.750875,
+    "end": 48.052208,
+    "content": "Rule"
+  },
+  {
+    "start": 48.063375,
+    "end": 48.364708,
+    "content": "three"
+  },
+  {
+    "start": 48.576791,
+    "end": 49.000916,
+    "content": "engineer"
+  },
+  {
+    "start": 49.012041,
+    "end": 49.235249,
+    "content": "one"
+  },
+  {
+    "start": 49.246416,
+    "end": 49.614707,
+    "content": "viral"
+  },
+  {
+    "start": 49.625875,
+    "end": 49.994166,
+    "content": "dish"
+  },
+  {
+    "start": 50.764291,
+    "end": 50.965166,
+    "content": "You're"
+  },
+  {
+    "start": 50.976333,
+    "end": 51.154916,
+    "content": "not"
+  },
+  {
+    "start": 51.166083,
+    "end": 51.601333,
+    "content": "competing"
+  },
+  {
+    "start": 51.6125,
+    "end": 51.701791,
+    "content": "with"
+  },
+  {
+    "start": 51.712958,
+    "end": 51.791083,
+    "content": "the"
+  },
+  {
+    "start": 51.80225,
+    "end": 52.103583,
+    "content": "diner"
+  },
+  {
+    "start": 52.11475,
+    "end": 52.349125,
+    "content": "next"
+  },
+  {
+    "start": 52.36025,
+    "end": 52.717375,
+    "content": "door"
+  },
+  {
+    "start": 53.4875,
+    "end": 53.64375,
+    "content": "You're"
+  },
+  {
+    "start": 53.654916,
+    "end": 54.090166,
+    "content": "competing"
+  },
+  {
+    "start": 54.101333,
+    "end": 54.212958,
+    "content": "with"
+  },
+  {
+    "start": 54.224125,
+    "end": 54.871458,
+    "content": "Instagram"
+  },
+  {
+    "start": 55.6415,
+    "end": 55.9205,
+    "content": "One"
+  },
+  {
+    "start": 55.931708,
+    "end": 56.110291,
+    "content": "dish"
+  },
+  {
+    "start": 56.121416,
+    "end": 56.255332,
+    "content": "that"
+  },
+  {
+    "start": 56.2665,
+    "end": 56.590166,
+    "content": "stops"
+  },
+  {
+    "start": 56.601333,
+    "end": 56.679458,
+    "content": "the"
+  },
+  {
+    "start": 56.690625,
+    "end": 57.014291,
+    "content": "scroll"
+  },
+  {
+    "start": 57.025458,
+    "end": 57.349124,
+    "content": "fills"
+  },
+  {
+    "start": 57.36025,
+    "end": 57.449541,
+    "content": "the"
+  },
+  {
+    "start": 57.460708,
+    "end": 57.851333,
+    "content": "entire"
+  },
+  {
+    "start": 57.8625,
+    "end": 58.219625,
+    "content": "dining"
+  },
+  {
+    "start": 58.230791,
+    "end": 58.554457,
+    "content": "room"
+  },
+  {
+    "start": 59.324541,
+    "end": 59.525416,
+    "content": "It's"
+  },
+  {
+    "start": 59.536625,
+    "end": 59.7375,
+    "content": "like"
+  },
+  {
+    "start": 59.748666,
+    "end": 60.016541,
+    "content": "putting"
+  },
+  {
+    "start": 60.027666,
+    "end": 60.061166,
+    "content": "a"
+  },
+  {
+    "start": 60.072333,
+    "end": 60.418333,
+    "content": "velvet"
+  },
+  {
+    "start": 60.429458,
+    "end": 60.641499,
+    "content": "rope"
+  },
+  {
+    "start": 60.652666,
+    "end": 61.054457,
+    "content": "outside"
+  },
+  {
+    "start": 61.065625,
+    "end": 61.11025,
+    "content": "a"
+  },
+  {
+    "start": 61.121416,
+    "end": 61.612499,
+    "content": "nightclub"
+  },
+  {
+    "start": 61.623666,
+    "end": 61.712957,
+    "content": "on"
+  },
+  {
+    "start": 61.724125,
+    "end": 61.76875,
+    "content": "a"
+  },
+  {
+    "start": 61.779916,
+    "end": 62.337957,
+    "content": "Tuesday"
+  },
+  {
+    "start": 63.108041,
+    "end": 63.241957,
+    "content": "The"
+  },
+  {
+    "start": 63.253125,
+    "end": 63.4875,
+    "content": "rope"
+  },
+  {
+    "start": 63.498666,
+    "end": 63.677249,
+    "content": "isn't"
+  },
+  {
+    "start": 63.688375,
+    "end": 63.967375,
+    "content": "keeping"
+  },
+  {
+    "start": 63.978583,
+    "end": 64.279916,
+    "content": "people"
+  },
+  {
+    "start": 64.291083,
+    "end": 64.625916,
+    "content": "out"
+  },
+  {
+    "start": 65.396,
+    "end": 65.596875,
+    "content": "It's"
+  },
+  {
+    "start": 65.608041,
+    "end": 65.898207,
+    "content": "proving"
+  },
+  {
+    "start": 65.909375,
+    "end": 66.099125,
+    "content": "there's"
+  },
+  {
+    "start": 66.11025,
+    "end": 66.42275,
+    "content": "something"
+  },
+  {
+    "start": 66.433916,
+    "end": 66.668291,
+    "content": "worth"
+  },
+  {
+    "start": 66.679458,
+    "end": 67.003124,
+    "content": "waiting"
+  },
+  {
+    "start": 67.014291,
+    "end": 67.137041,
+    "content": "for"
+  },
+  {
+    "start": 67.148208,
+    "end": 67.750874,
+    "content": "inside"
+  },
+  {
+    "start": 68.521,
+    "end": 68.788875,
+    "content": "Busy"
+  },
+  {
+    "start": 68.8,
+    "end": 69.26875,
+    "content": "restaurants"
+  },
+  {
+    "start": 69.279916,
+    "end": 69.469666,
+    "content": "get"
+  },
+  {
+    "start": 69.480791,
+    "end": 69.882582,
+    "content": "busier"
+  },
+  {
+    "start": 70.652666,
+    "end": 70.875874,
+    "content": "Don't"
+  },
+  {
+    "start": 70.887041,
+    "end": 71.065624,
+    "content": "wait"
+  },
+  {
+    "start": 71.076791,
+    "end": 71.143749,
+    "content": "to"
+  },
+  {
+    "start": 71.154916,
+    "end": 71.244207,
+    "content": "be"
+  },
+  {
+    "start": 71.255375,
+    "end": 71.791083,
+    "content": "crowded"
+  },
+  {
+    "start": 72.561166,
+    "end": 73.041082,
+    "content": "Engineer"
+  },
+  {
+    "start": 73.05225,
+    "end": 73.141541,
+    "content": "the"
+  },
+  {
+    "start": 73.152666,
+    "end": 73.599082,
+    "content": "proof"
+  },
+  {
+    "start": 74.369208,
+    "end": 74.525458,
+    "content": "And"
+  },
+  {
+    "start": 74.536625,
+    "end": 74.726375,
+    "content": "those"
+  },
+  {
+    "start": 74.7375,
+    "end": 75.027666,
+    "content": "Roman"
+  },
+  {
+    "start": 75.038833,
+    "end": 75.663833,
+    "content": "mannequins"
+  },
+  {
+    "start": 76.433916,
+    "end": 76.757582,
+    "content": "Still"
+  },
+  {
+    "start": 76.76875,
+    "end": 77.025458,
+    "content": "there"
+  },
+  {
+    "start": 77.795541,
+    "end": 77.985291,
+    "content": "With"
+  },
+  {
+    "start": 77.996416,
+    "end": 78.041041,
+    "content": "a"
+  },
+  {
+    "start": 78.05225,
+    "end": 78.353583,
+    "content": "line"
+  },
+  {
+    "start": 78.36475,
+    "end": 78.654916,
+    "content": "around"
+  },
+  {
+    "start": 78.666083,
+    "end": 78.733041,
+    "content": "the"
+  },
+  {
+    "start": 78.744208,
+    "end": 79.090208,
+    "content": "block"
+  }
+]

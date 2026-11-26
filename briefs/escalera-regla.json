@@ -1,0 +1,14 @@
+{
+  "id": "escalera-regla",
+  "idioma": "es",
+  "tema": "¿Y si todos en la Tierra siguieran la regla de la escalera mecánica?",
+  "formato": "what_if",
+  "estilo": "neon_kinetic",
+  "duracionSegundos": 30,
+  "tono": "curioso, rápido, asombroso",
+  "datoGrande": "8.000.000.000 de personas",
+  "voz": "narrador_masculino_es",
+  "musica": "suspenso_suave",
+  "plataformas": ["tiktok", "reels", "shorts"],
+  "variantes": 1
+}

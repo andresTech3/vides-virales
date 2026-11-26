@@ -1,0 +1,18 @@
+{
+  "id": "negocio-futbol",
+  "idioma": "es",
+  "tema": "Cómo es el negocio del fútbol",
+  "formato": "top_ranking",
+  "estilo": "neon_kinetic",
+  "duracionSegundos": 40,
+  "tono": "curioso, sorprendente, rápido, asombroso",
+  "datoGrande": "50.000 millones de dólares",
+  "voz": "es-ES-AlvaroNeural",
+  "musica": "epica_motivacion",
+  "plataformas": ["tiktok", "reels", "shorts"],
+  "itemsRanking": [
+    { "posicion": 3, "titulo": "Los derechos de televisión", "descripcion": "Un solo contrato de la Premier League vale más que el PIB de muchos países." },
+    { "posicion": 2, "titulo": "Los fichajes y el mercado de transferencias", "descripcion": "Un solo jugador puede costar más de cien millones de euros en un solo verano." },
+    { "posicion": 1, "titulo": "Las marcas y el patrocinio", "descripcion": "Las camisetas, los estadios y los naming rights generan cientos de millones al año." }
+  ]
+}

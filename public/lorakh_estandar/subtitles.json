@@ -1,0 +1,752 @@
+[
+  {
+    "word": "¿Comprar",
+    "start": 0.5,
+    "end": 0.978,
+    "part": "hook"
+  },
+  {
+    "word": "perfume",
+    "start": 0.978,
+    "end": 1.457,
+    "part": "hook"
+  },
+  {
+    "word": "barato",
+    "start": 1.457,
+    "end": 1.935,
+    "part": "hook"
+  },
+  {
+    "word": "o",
+    "start": 1.935,
+    "end": 2.413,
+    "part": "hook"
+  },
+  {
+    "word": "invertir",
+    "start": 2.413,
+    "end": 2.891,
+    "part": "hook"
+  },
+  {
+    "word": "en",
+    "start": 2.891,
+    "end": 3.37,
+    "part": "hook"
+  },
+  {
+    "word": "calidad?",
+    "start": 3.37,
+    "end": 3.848,
+    "part": "hook"
+  },
+  {
+    "word": "En",
+    "start": 3.848,
+    "end": 4.326,
+    "part": "hook"
+  },
+  {
+    "word": "la",
+    "start": 4.326,
+    "end": 4.805,
+    "part": "hook"
+  },
+  {
+    "word": "discoteca,",
+    "start": 4.805,
+    "end": 5.283,
+    "part": "hook"
+  },
+  {
+    "word": "la",
+    "start": 5.283,
+    "end": 5.761,
+    "part": "hook"
+  },
+  {
+    "word": "diferencia",
+    "start": 5.761,
+    "end": 6.239,
+    "part": "hook"
+  },
+  {
+    "word": "es",
+    "start": 6.239,
+    "end": 6.718,
+    "part": "hook"
+  },
+  {
+    "word": "brutal.",
+    "start": 6.718,
+    "end": 7.196,
+    "part": "hook"
+  },
+  {
+    "word": "Número",
+    "start": 7.5,
+    "end": 7.893,
+    "part": "item1"
+  },
+  {
+    "word": "uno:",
+    "start": 7.893,
+    "end": 8.285,
+    "part": "item1"
+  },
+  {
+    "word": "El",
+    "start": 8.285,
+    "end": 8.678,
+    "part": "item1"
+  },
+  {
+    "word": "frasco",
+    "start": 8.678,
+    "end": 9.071,
+    "part": "item1"
+  },
+  {
+    "word": "barato.",
+    "start": 9.071,
+    "end": 9.463,
+    "part": "item1"
+  },
+  {
+    "word": "Puro",
+    "start": 9.463,
+    "end": 9.856,
+    "part": "item1"
+  },
+  {
+    "word": "alcohol",
+    "start": 9.856,
+    "end": 10.248,
+    "part": "item1"
+  },
+  {
+    "word": "diluido.",
+    "start": 10.248,
+    "end": 10.641,
+    "part": "item1"
+  },
+  {
+    "word": "Con",
+    "start": 10.641,
+    "end": 11.034,
+    "part": "item1"
+  },
+  {
+    "word": "el",
+    "start": 11.034,
+    "end": 11.426,
+    "part": "item1"
+  },
+  {
+    "word": "calor",
+    "start": 11.426,
+    "end": 11.819,
+    "part": "item1"
+  },
+  {
+    "word": "de",
+    "start": 11.819,
+    "end": 12.212,
+    "part": "item1"
+  },
+  {
+    "word": "la",
+    "start": 12.212,
+    "end": 12.604,
+    "part": "item1"
+  },
+  {
+    "word": "pista",
+    "start": 12.604,
+    "end": 12.997,
+    "part": "item1"
+  },
+  {
+    "word": "se",
+    "start": 12.997,
+    "end": 13.39,
+    "part": "item1"
+  },
+  {
+    "word": "evapora",
+    "start": 13.39,
+    "end": 13.782,
+    "part": "item1"
+  },
+  {
+    "word": "a",
+    "start": 13.782,
+    "end": 14.175,
+    "part": "item1"
+  },
+  {
+    "word": "los",
+    "start": 14.175,
+    "end": 14.568,
+    "part": "item1"
+  },
+  {
+    "word": "veinte",
+    "start": 14.568,
+    "end": 14.96,
+    "part": "item1"
+  },
+  {
+    "word": "minutos",
+    "start": 14.96,
+    "end": 15.353,
+    "part": "item1"
+  },
+  {
+    "word": "y",
+    "start": 15.353,
+    "end": 15.745,
+    "part": "item1"
+  },
+  {
+    "word": "no",
+    "start": 15.745,
+    "end": 16.138,
+    "part": "item1"
+  },
+  {
+    "word": "huele",
+    "start": 16.138,
+    "end": 16.531,
+    "part": "item1"
+  },
+  {
+    "word": "a",
+    "start": 16.531,
+    "end": 16.923,
+    "part": "item1"
+  },
+  {
+    "word": "nada.",
+    "start": 16.923,
+    "end": 17.316,
+    "part": "item1"
+  },
+  {
+    "word": "Número",
+    "start": 18.2,
+    "end": 18.658,
+    "part": "item2"
+  },
+  {
+    "word": "dos:",
+    "start": 18.658,
+    "end": 19.116,
+    "part": "item2"
+  },
+  {
+    "word": "Lorakh",
+    "start": 19.116,
+    "end": 19.574,
+    "part": "item2"
+  },
+  {
+    "word": "Midnight",
+    "start": 19.574,
+    "end": 20.032,
+    "part": "item2"
+  },
+  {
+    "word": "Club.",
+    "start": 20.032,
+    "end": 20.49,
+    "part": "item2"
+  },
+  {
+    "word": "Proyección",
+    "start": 20.49,
+    "end": 20.948,
+    "part": "item2"
+  },
+  {
+    "word": "bestial",
+    "start": 20.948,
+    "end": 21.406,
+    "part": "item2"
+  },
+  {
+    "word": "para",
+    "start": 21.406,
+    "end": 21.864,
+    "part": "item2"
+  },
+  {
+    "word": "romper",
+    "start": 21.864,
+    "end": 22.322,
+    "part": "item2"
+  },
+  {
+    "word": "la",
+    "start": 22.322,
+    "end": 22.78,
+    "part": "item2"
+  },
+  {
+    "word": "noche.",
+    "start": 22.78,
+    "end": 23.238,
+    "part": "item2"
+  },
+  {
+    "word": "Ron",
+    "start": 23.238,
+    "end": 23.696,
+    "part": "item2"
+  },
+  {
+    "word": "oscuro,",
+    "start": 23.696,
+    "end": 24.154,
+    "part": "item2"
+  },
+  {
+    "word": "tabaco",
+    "start": 24.154,
+    "end": 24.612,
+    "part": "item2"
+  },
+  {
+    "word": "dulce",
+    "start": 24.612,
+    "end": 25.07,
+    "part": "item2"
+  },
+  {
+    "word": "y",
+    "start": 25.07,
+    "end": 25.528,
+    "part": "item2"
+  },
+  {
+    "word": "vainilla",
+    "start": 25.528,
+    "end": 25.986,
+    "part": "item2"
+  },
+  {
+    "word": "que",
+    "start": 25.986,
+    "end": 26.444,
+    "part": "item2"
+  },
+  {
+    "word": "cortan",
+    "start": 26.444,
+    "end": 26.902,
+    "part": "item2"
+  },
+  {
+    "word": "el",
+    "start": 26.902,
+    "end": 27.36,
+    "part": "item2"
+  },
+  {
+    "word": "aire",
+    "start": 27.36,
+    "end": 27.818,
+    "part": "item2"
+  },
+  {
+    "word": "a",
+    "start": 27.818,
+    "end": 28.276,
+    "part": "item2"
+  },
+  {
+    "word": "tres",
+    "start": 28.276,
+    "end": 28.734,
+    "part": "item2"
+  },
+  {
+    "word": "metros.",
+    "start": 28.734,
+    "end": 29.192,
+    "part": "item2"
+  },
+  {
+    "word": "Número",
+    "start": 29.5,
+    "end": 29.89,
+    "part": "item3"
+  },
+  {
+    "word": "tres:",
+    "start": 29.89,
+    "end": 30.281,
+    "part": "item3"
+  },
+  {
+    "word": "Lorakh",
+    "start": 30.281,
+    "end": 30.671,
+    "part": "item3"
+  },
+  {
+    "word": "Royal",
+    "start": 30.671,
+    "end": 31.062,
+    "part": "item3"
+  },
+  {
+    "word": "Gold.",
+    "start": 31.062,
+    "end": 31.452,
+    "part": "item3"
+  },
+  {
+    "word": "El",
+    "start": 31.452,
+    "end": 31.843,
+    "part": "item3"
+  },
+  {
+    "word": "imán",
+    "start": 31.843,
+    "end": 32.233,
+    "part": "item3"
+  },
+  {
+    "word": "de",
+    "start": 32.233,
+    "end": 32.624,
+    "part": "item3"
+  },
+  {
+    "word": "la",
+    "start": 32.624,
+    "end": 33.014,
+    "part": "item3"
+  },
+  {
+    "word": "barra.",
+    "start": 33.014,
+    "end": 33.405,
+    "part": "item3"
+  },
+  {
+    "word": "Ámbar",
+    "start": 33.405,
+    "end": 33.795,
+    "part": "item3"
+  },
+  {
+    "word": "cálido",
+    "start": 33.795,
+    "end": 34.186,
+    "part": "item3"
+  },
+  {
+    "word": "y",
+    "start": 34.186,
+    "end": 34.576,
+    "part": "item3"
+  },
+  {
+    "word": "maderas",
+    "start": 34.576,
+    "end": 34.966,
+    "part": "item3"
+  },
+  {
+    "word": "finas",
+    "start": 34.966,
+    "end": 35.357,
+    "part": "item3"
+  },
+  {
+    "word": "para",
+    "start": 35.357,
+    "end": 35.747,
+    "part": "item3"
+  },
+  {
+    "word": "hablar",
+    "start": 35.747,
+    "end": 36.138,
+    "part": "item3"
+  },
+  {
+    "word": "al",
+    "start": 36.138,
+    "end": 36.528,
+    "part": "item3"
+  },
+  {
+    "word": "oído",
+    "start": 36.528,
+    "end": 36.919,
+    "part": "item3"
+  },
+  {
+    "word": "y",
+    "start": 36.919,
+    "end": 37.309,
+    "part": "item3"
+  },
+  {
+    "word": "dejar",
+    "start": 37.309,
+    "end": 37.7,
+    "part": "item3"
+  },
+  {
+    "word": "tu",
+    "start": 37.7,
+    "end": 38.09,
+    "part": "item3"
+  },
+  {
+    "word": "recuerdo",
+    "start": 38.09,
+    "end": 38.481,
+    "part": "item3"
+  },
+  {
+    "word": "en",
+    "start": 38.481,
+    "end": 38.871,
+    "part": "item3"
+  },
+  {
+    "word": "su",
+    "start": 38.871,
+    "end": 39.262,
+    "part": "item3"
+  },
+  {
+    "word": "ropa.",
+    "start": 39.262,
+    "end": 39.652,
+    "part": "item3"
+  },
+  {
+    "word": "Número",
+    "start": 40.5,
+    "end": 40.998,
+    "part": "item4"
+  },
+  {
+    "word": "cuatro:",
+    "start": 40.998,
+    "end": 41.497,
+    "part": "item4"
+  },
+  {
+    "word": "Nocturne",
+    "start": 41.497,
+    "end": 41.995,
+    "part": "item4"
+  },
+  {
+    "word": "Extrait",
+    "start": 41.995,
+    "end": 42.493,
+    "part": "item4"
+  },
+  {
+    "word": "de",
+    "start": 42.493,
+    "end": 42.991,
+    "part": "item4"
+  },
+  {
+    "word": "Parfum.",
+    "start": 42.991,
+    "end": 43.49,
+    "part": "item4"
+  },
+  {
+    "word": "Treinta",
+    "start": 43.49,
+    "end": 43.988,
+    "part": "item4"
+  },
+  {
+    "word": "y",
+    "start": 43.988,
+    "end": 44.486,
+    "part": "item4"
+  },
+  {
+    "word": "cinco",
+    "start": 44.486,
+    "end": 44.985,
+    "part": "item4"
+  },
+  {
+    "word": "por",
+    "start": 44.985,
+    "end": 45.483,
+    "part": "item4"
+  },
+  {
+    "word": "ciento",
+    "start": 45.483,
+    "end": 45.981,
+    "part": "item4"
+  },
+  {
+    "word": "de",
+    "start": 45.981,
+    "end": 46.479,
+    "part": "item4"
+  },
+  {
+    "word": "aceites",
+    "start": 46.479,
+    "end": 46.978,
+    "part": "item4"
+  },
+  {
+    "word": "puros.",
+    "start": 46.978,
+    "end": 47.476,
+    "part": "item4"
+  },
+  {
+    "word": "Catorce",
+    "start": 47.476,
+    "end": 47.974,
+    "part": "item4"
+  },
+  {
+    "word": "horas",
+    "start": 47.974,
+    "end": 48.473,
+    "part": "item4"
+  },
+  {
+    "word": "de",
+    "start": 48.473,
+    "end": 48.971,
+    "part": "item4"
+  },
+  {
+    "word": "presencia",
+    "start": 48.971,
+    "end": 49.469,
+    "part": "item4"
+  },
+  {
+    "word": "imponente",
+    "start": 49.469,
+    "end": 49.967,
+    "part": "item4"
+  },
+  {
+    "word": "sin",
+    "start": 49.967,
+    "end": 50.466,
+    "part": "item4"
+  },
+  {
+    "word": "evaporarse.",
+    "start": 50.466,
+    "end": 50.964,
+    "part": "item4"
+  },
+  {
+    "word": "Ahora",
+    "start": 51.5,
+    "end": 51.93,
+    "part": "outro"
+  },
+  {
+    "word": "ya",
+    "start": 51.93,
+    "end": 52.361,
+    "part": "outro"
+  },
+  {
+    "word": "sabes",
+    "start": 52.361,
+    "end": 52.791,
+    "part": "outro"
+  },
+  {
+    "word": "qué",
+    "start": 52.791,
+    "end": 53.222,
+    "part": "outro"
+  },
+  {
+    "word": "Lorakh",
+    "start": 53.222,
+    "end": 53.652,
+    "part": "outro"
+  },
+  {
+    "word": "elegir",
+    "start": 53.652,
+    "end": 54.082,
+    "part": "outro"
+  },
+  {
+    "word": "según",
+    "start": 54.082,
+    "end": 54.513,
+    "part": "outro"
+  },
+  {
+    "word": "tu",
+    "start": 54.513,
+    "end": 54.943,
+    "part": "outro"
+  },
+  {
+    "word": "noche.",
+    "start": 54.943,
+    "end": 55.374,
+    "part": "outro"
+  },
+  {
+    "word": "Elige",
+    "start": 55.374,
+    "end": 55.804,
+    "part": "outro"
+  },
+  {
+    "word": "calidad",
+    "start": 55.804,
+    "end": 56.234,
+    "part": "outro"
+  },
+  {
+    "word": "pura",
+    "start": 56.234,
+    "end": 56.665,
+    "part": "outro"
+  },
+  {
+    "word": "y",
+    "start": 56.665,
+    "end": 57.095,
+    "part": "outro"
+  },
+  {
+    "word": "hazte",
+    "start": 57.095,
+    "end": 57.526,
+    "part": "outro"
+  },
+  {
+    "word": "notar.",
+    "start": 57.526,
+    "end": 57.956,
+    "part": "outro"
+  }
+]

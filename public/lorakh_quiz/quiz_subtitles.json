@@ -1,0 +1,436 @@
+[
+  {
+    "word": "¿Cuál",
+    "start": 0.25,
+    "end": 0.679,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "es",
+    "start": 0.679,
+    "end": 1.107,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "tu",
+    "start": 1.107,
+    "end": 1.536,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "perfume",
+    "start": 1.536,
+    "end": 1.964,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "según",
+    "start": 1.964,
+    "end": 2.393,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "tu",
+    "start": 2.393,
+    "end": 2.821,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "personalidad?",
+    "start": 2.821,
+    "end": 3.25,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "Si",
+    "start": 3.6,
+    "end": 4.135,
+    "part": "arq1",
+    "scene": "arq1"
+  },
+  {
+    "word": "eres",
+    "start": 4.135,
+    "end": 4.67,
+    "part": "arq1",
+    "scene": "arq1"
+  },
+  {
+    "word": "dueño",
+    "start": 4.67,
+    "end": 5.206,
+    "part": "arq1",
+    "scene": "arq1"
+  },
+  {
+    "word": "de",
+    "start": 5.206,
+    "end": 5.741,
+    "part": "arq1",
+    "scene": "arq1"
+  },
+  {
+    "word": "la",
+    "start": 5.741,
+    "end": 6.276,
+    "part": "arq1",
+    "scene": "arq1"
+  },
+  {
+    "word": "noche...",
+    "start": 6.276,
+    "end": 6.811,
+    "part": "arq1",
+    "scene": "arq1"
+  },
+  {
+    "word": "Midnight",
+    "start": 6.811,
+    "end": 7.346,
+    "part": "arq1",
+    "scene": "arq1"
+  },
+  {
+    "word": "Club:",
+    "start": 7.346,
+    "end": 7.882,
+    "part": "arq1",
+    "scene": "arq1"
+  },
+  {
+    "word": "seducción",
+    "start": 7.882,
+    "end": 8.417,
+    "part": "arq1",
+    "scene": "arq1"
+  },
+  {
+    "word": "letal.",
+    "start": 8.417,
+    "end": 8.952,
+    "part": "arq1",
+    "scene": "arq1"
+  },
+  {
+    "word": "Si",
+    "start": 9.1,
+    "end": 9.716,
+    "part": "arq2",
+    "scene": "arq2"
+  },
+  {
+    "word": "buscas",
+    "start": 9.716,
+    "end": 10.332,
+    "part": "arq2",
+    "scene": "arq2"
+  },
+  {
+    "word": "poder",
+    "start": 10.332,
+    "end": 10.948,
+    "part": "arq2",
+    "scene": "arq2"
+  },
+  {
+    "word": "y",
+    "start": 10.948,
+    "end": 11.564,
+    "part": "arq2",
+    "scene": "arq2"
+  },
+  {
+    "word": "elegancia...",
+    "start": 11.564,
+    "end": 12.18,
+    "part": "arq2",
+    "scene": "arq2"
+  },
+  {
+    "word": "Royal",
+    "start": 12.18,
+    "end": 12.796,
+    "part": "arq2",
+    "scene": "arq2"
+  },
+  {
+    "word": "Gold:",
+    "start": 12.796,
+    "end": 13.412,
+    "part": "arq2",
+    "scene": "arq2"
+  },
+  {
+    "word": "distinción",
+    "start": 13.412,
+    "end": 14.028,
+    "part": "arq2",
+    "scene": "arq2"
+  },
+  {
+    "word": "pura.",
+    "start": 14.028,
+    "end": 14.644,
+    "part": "arq2",
+    "scene": "arq2"
+  },
+  {
+    "word": "Si",
+    "start": 14.6,
+    "end": 15.256,
+    "part": "arq3",
+    "scene": "arq3"
+  },
+  {
+    "word": "eres",
+    "start": 15.256,
+    "end": 15.912,
+    "part": "arq3",
+    "scene": "arq3"
+  },
+  {
+    "word": "libre",
+    "start": 15.912,
+    "end": 16.568,
+    "part": "arq3",
+    "scene": "arq3"
+  },
+  {
+    "word": "y",
+    "start": 16.568,
+    "end": 17.224,
+    "part": "arq3",
+    "scene": "arq3"
+  },
+  {
+    "word": "enérgico...",
+    "start": 17.224,
+    "end": 17.88,
+    "part": "arq3",
+    "scene": "arq3"
+  },
+  {
+    "word": "Sapphire",
+    "start": 17.88,
+    "end": 18.536,
+    "part": "arq3",
+    "scene": "arq3"
+  },
+  {
+    "word": "Ice:",
+    "start": 18.536,
+    "end": 19.192,
+    "part": "arq3",
+    "scene": "arq3"
+  },
+  {
+    "word": "frescura",
+    "start": 19.192,
+    "end": 19.848,
+    "part": "arq3",
+    "scene": "arq3"
+  },
+  {
+    "word": "explosiva.",
+    "start": 19.848,
+    "end": 20.504,
+    "part": "arq3",
+    "scene": "arq3"
+  },
+  {
+    "word": "Si",
+    "start": 20.4,
+    "end": 21.04,
+    "part": "arq4",
+    "scene": "arq4"
+  },
+  {
+    "word": "eres",
+    "start": 21.04,
+    "end": 21.68,
+    "part": "arq4",
+    "scene": "arq4"
+  },
+  {
+    "word": "magnético",
+    "start": 21.68,
+    "end": 22.32,
+    "part": "arq4",
+    "scene": "arq4"
+  },
+  {
+    "word": "y",
+    "start": 22.32,
+    "end": 22.96,
+    "part": "arq4",
+    "scene": "arq4"
+  },
+  {
+    "word": "dulce...",
+    "start": 22.96,
+    "end": 23.6,
+    "part": "arq4",
+    "scene": "arq4"
+  },
+  {
+    "word": "Velvet",
+    "start": 23.6,
+    "end": 24.24,
+    "part": "arq4",
+    "scene": "arq4"
+  },
+  {
+    "word": "Amber:",
+    "start": 24.24,
+    "end": 24.88,
+    "part": "arq4",
+    "scene": "arq4"
+  },
+  {
+    "word": "atracción",
+    "start": 24.88,
+    "end": 25.52,
+    "part": "arq4",
+    "scene": "arq4"
+  },
+  {
+    "word": "irresistible.",
+    "start": 25.52,
+    "end": 26.16,
+    "part": "arq4",
+    "scene": "arq4"
+  },
+  {
+    "word": "Y",
+    "start": 26.1,
+    "end": 26.748,
+    "part": "arq5",
+    "scene": "arq5"
+  },
+  {
+    "word": "si",
+    "start": 26.748,
+    "end": 27.396,
+    "part": "arq5",
+    "scene": "arq5"
+  },
+  {
+    "word": "buscas",
+    "start": 27.396,
+    "end": 28.044,
+    "part": "arq5",
+    "scene": "arq5"
+  },
+  {
+    "word": "máxima",
+    "start": 28.044,
+    "end": 28.692,
+    "part": "arq5",
+    "scene": "arq5"
+  },
+  {
+    "word": "autoridad...",
+    "start": 28.692,
+    "end": 29.34,
+    "part": "arq5",
+    "scene": "arq5"
+  },
+  {
+    "word": "Nocturne",
+    "start": 29.34,
+    "end": 29.988,
+    "part": "arq5",
+    "scene": "arq5"
+  },
+  {
+    "word": "Extrait:",
+    "start": 29.988,
+    "end": 30.636,
+    "part": "arq5",
+    "scene": "arq5"
+  },
+  {
+    "word": "impacto",
+    "start": 30.636,
+    "end": 31.284,
+    "part": "arq5",
+    "scene": "arq5"
+  },
+  {
+    "word": "absoluto.",
+    "start": 31.284,
+    "end": 31.932,
+    "part": "arq5",
+    "scene": "arq5"
+  },
+  {
+    "word": "¿Cuál",
+    "start": 31.9,
+    "end": 32.537,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "eres",
+    "start": 32.537,
+    "end": 33.175,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "tú?",
+    "start": 33.175,
+    "end": 33.812,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "Comenta",
+    "start": 33.812,
+    "end": 34.449,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "tu",
+    "start": 34.449,
+    "end": 35.087,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "número",
+    "start": 35.087,
+    "end": 35.724,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "aquí",
+    "start": 35.724,
+    "end": 36.361,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "abajo.",
+    "start": 36.361,
+    "end": 36.999,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "Lorakh.",
+    "start": 36.999,
+    "end": 37.636,
+    "part": "outro",
+    "scene": "outro"
+  }
+]

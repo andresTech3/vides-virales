@@ -1,0 +1,12 @@
+{
+  "id": "luna-choca-tierra",
+  "tema": "¿Qué pasaría si la Luna choca con la Tierra?",
+  "formato": "what_if",
+  "estilo": "neon_kinetic",
+  "duracionSegundos": 35,
+  "datoGrande": "18.470 KM // LÍMITE DE ROCHE",
+  "voz": "es-ES-AlvaroNeural",
+  "musica": "suspenso_suave",
+  "idioma": "es",
+  "plataformas": ["tiktok", "reels", "shorts"]
+}

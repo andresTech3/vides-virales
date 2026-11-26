@@ -1,0 +1,758 @@
+[
+  {
+    "word": "Faltan",
+    "start": 0.3,
+    "end": 0.659,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "cinco",
+    "start": 0.659,
+    "end": 1.017,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "minutos",
+    "start": 1.017,
+    "end": 1.376,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "para",
+    "start": 1.376,
+    "end": 1.734,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "la",
+    "start": 1.734,
+    "end": 2.093,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "entrevista",
+    "start": 2.093,
+    "end": 2.452,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "más",
+    "start": 2.452,
+    "end": 2.81,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "importante",
+    "start": 2.81,
+    "end": 3.169,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "de",
+    "start": 3.169,
+    "end": 3.527,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "tu",
+    "start": 3.527,
+    "end": 3.886,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "vida...",
+    "start": 3.886,
+    "end": 4.244,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "y",
+    "start": 4.244,
+    "end": 4.603,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "los",
+    "start": 4.603,
+    "end": 4.962,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "nervios",
+    "start": 4.962,
+    "end": 5.32,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "están",
+    "start": 5.32,
+    "end": 5.679,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "al",
+    "start": 5.679,
+    "end": 6.037,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "límite.",
+    "start": 6.037,
+    "end": 6.396,
+    "part": "shot1_hook",
+    "scene": "shot1_hook"
+  },
+  {
+    "word": "El",
+    "start": 7.0,
+    "end": 7.418,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "error",
+    "start": 7.418,
+    "end": 7.836,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "número",
+    "start": 7.836,
+    "end": 8.253,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "uno:",
+    "start": 8.253,
+    "end": 8.671,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "bañarte",
+    "start": 8.671,
+    "end": 9.089,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "en",
+    "start": 9.089,
+    "end": 9.507,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "un",
+    "start": 9.507,
+    "end": 9.925,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "perfume",
+    "start": 9.925,
+    "end": 10.343,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "barato.",
+    "start": 10.343,
+    "end": 10.76,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "En",
+    "start": 10.76,
+    "end": 11.178,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "un",
+    "start": 11.178,
+    "end": 11.596,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "espacio",
+    "start": 11.596,
+    "end": 12.014,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "cerrado,",
+    "start": 12.014,
+    "end": 12.432,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "el",
+    "start": 12.432,
+    "end": 12.849,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "alcohol",
+    "start": 12.849,
+    "end": 13.267,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "etílico",
+    "start": 13.267,
+    "end": 13.685,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "marea",
+    "start": 13.685,
+    "end": 14.103,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "y",
+    "start": 14.103,
+    "end": 14.521,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "arruina",
+    "start": 14.521,
+    "end": 14.939,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "tu",
+    "start": 14.939,
+    "end": 15.356,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "primera",
+    "start": 15.356,
+    "end": 15.774,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "impresión.",
+    "start": 15.774,
+    "end": 16.192,
+    "part": "shot2_error",
+    "scene": "shot2_error"
+  },
+  {
+    "word": "El",
+    "start": 16.7,
+    "end": 17.157,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "candidato",
+    "start": 17.157,
+    "end": 17.615,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "preparado",
+    "start": 17.615,
+    "end": 18.072,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "usa",
+    "start": 18.072,
+    "end": 18.529,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "Lorakh.",
+    "start": 18.529,
+    "end": 18.987,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "Notas",
+    "start": 18.987,
+    "end": 19.444,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "nobles",
+    "start": 19.444,
+    "end": 19.901,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "de",
+    "start": 19.901,
+    "end": 20.359,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "ámbar",
+    "start": 20.359,
+    "end": 20.816,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "y",
+    "start": 20.816,
+    "end": 21.273,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "cedro",
+    "start": 21.273,
+    "end": 21.731,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "que",
+    "start": 21.731,
+    "end": 22.188,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "transmiten",
+    "start": 22.188,
+    "end": 22.645,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "calma,",
+    "start": 22.645,
+    "end": 23.103,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "autoridad",
+    "start": 23.103,
+    "end": 23.56,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "y",
+    "start": 23.56,
+    "end": 24.017,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "alto",
+    "start": 24.017,
+    "end": 24.475,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "estatus.",
+    "start": 24.475,
+    "end": 24.932,
+    "part": "shot3_lorakh",
+    "scene": "shot3_lorakh"
+  },
+  {
+    "word": "El",
+    "start": 25.5,
+    "end": 25.88,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "entrevistador",
+    "start": 25.88,
+    "end": 26.26,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "no",
+    "start": 26.26,
+    "end": 26.64,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "necesita",
+    "start": 26.64,
+    "end": 27.02,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "ver",
+    "start": 27.02,
+    "end": 27.4,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "tu",
+    "start": 27.4,
+    "end": 27.78,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "currículum",
+    "start": 27.78,
+    "end": 28.16,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "si",
+    "start": 28.16,
+    "end": 28.54,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "tu",
+    "start": 28.54,
+    "end": 28.92,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "olor",
+    "start": 28.92,
+    "end": 29.3,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "le",
+    "start": 29.3,
+    "end": 29.68,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "provoca",
+    "start": 29.68,
+    "end": 30.06,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "dolor",
+    "start": 30.06,
+    "end": 30.44,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "de",
+    "start": 30.44,
+    "end": 30.82,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "cabeza:",
+    "start": 30.82,
+    "end": 31.2,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "descartado",
+    "start": 31.2,
+    "end": 31.58,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "al",
+    "start": 31.58,
+    "end": 31.96,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "instante.",
+    "start": 31.96,
+    "end": 32.34,
+    "part": "shot4_rejection",
+    "scene": "shot4_rejection"
+  },
+  {
+    "word": "Pero",
+    "start": 32.9,
+    "end": 33.265,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "con",
+    "start": 33.265,
+    "end": 33.629,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "Lorakh,",
+    "start": 33.629,
+    "end": 33.994,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "la",
+    "start": 33.994,
+    "end": 34.358,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "memoria",
+    "start": 34.358,
+    "end": 34.723,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "olfativa",
+    "start": 34.723,
+    "end": 35.087,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "crea",
+    "start": 35.087,
+    "end": 35.452,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "una",
+    "start": 35.452,
+    "end": 35.817,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "conexión",
+    "start": 35.817,
+    "end": 36.181,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "inmediata",
+    "start": 36.181,
+    "end": 36.546,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "de",
+    "start": 36.546,
+    "end": 36.91,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "confianza",
+    "start": 36.91,
+    "end": 37.275,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "y",
+    "start": 37.275,
+    "end": 37.639,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "liderazgo",
+    "start": 37.639,
+    "end": 38.004,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "antes",
+    "start": 38.004,
+    "end": 38.369,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "de",
+    "start": 38.369,
+    "end": 38.733,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "que",
+    "start": 38.733,
+    "end": 39.098,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "digas",
+    "start": 39.098,
+    "end": 39.462,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "una",
+    "start": 39.462,
+    "end": 39.827,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "sola",
+    "start": 39.827,
+    "end": 40.191,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "palabra.",
+    "start": 40.191,
+    "end": 40.556,
+    "part": "shot5_approval",
+    "scene": "shot5_approval"
+  },
+  {
+    "word": "¿Cuál",
+    "start": 41.0,
+    "end": 41.578,
+    "part": "shot6_outro",
+    "scene": "shot6_outro"
+  },
+  {
+    "word": "llevarías",
+    "start": 41.578,
+    "end": 42.156,
+    "part": "shot6_outro",
+    "scene": "shot6_outro"
+  },
+  {
+    "word": "tú",
+    "start": 42.156,
+    "end": 42.734,
+    "part": "shot6_outro",
+    "scene": "shot6_outro"
+  },
+  {
+    "word": "a",
+    "start": 42.734,
+    "end": 43.312,
+    "part": "shot6_outro",
+    "scene": "shot6_outro"
+  },
+  {
+    "word": "la",
+    "start": 43.312,
+    "end": 43.89,
+    "part": "shot6_outro",
+    "scene": "shot6_outro"
+  },
+  {
+    "word": "entrevista?",
+    "start": 43.89,
+    "end": 44.468,
+    "part": "shot6_outro",
+    "scene": "shot6_outro"
+  },
+  {
+    "word": "Comenta",
+    "start": 44.468,
+    "end": 45.046,
+    "part": "shot6_outro",
+    "scene": "shot6_outro"
+  },
+  {
+    "word": "tu",
+    "start": 45.046,
+    "end": 45.624,
+    "part": "shot6_outro",
+    "scene": "shot6_outro"
+  },
+  {
+    "word": "opción.",
+    "start": 45.624,
+    "end": 46.202,
+    "part": "shot6_outro",
+    "scene": "shot6_outro"
+  },
+  {
+    "word": "Lorakh",
+    "start": 46.202,
+    "end": 46.78,
+    "part": "shot6_outro",
+    "scene": "shot6_outro"
+  },
+  {
+    "word": "Fragrance",
+    "start": 46.78,
+    "end": 47.358,
+    "part": "shot6_outro",
+    "scene": "shot6_outro"
+  },
+  {
+    "word": "House.",
+    "start": 47.358,
+    "end": 47.936,
+    "part": "shot6_outro",
+    "scene": "shot6_outro"
+  }
+]

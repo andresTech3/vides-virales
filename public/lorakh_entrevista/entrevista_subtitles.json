@@ -1,0 +1,576 @@
+[
+  {
+    "word": "Faltan",
+    "start": 0.25,
+    "end": 0.585,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "cinco",
+    "start": 0.585,
+    "end": 0.919,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "minutos",
+    "start": 0.919,
+    "end": 1.254,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "para",
+    "start": 1.254,
+    "end": 1.588,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "la",
+    "start": 1.588,
+    "end": 1.923,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "entrevista",
+    "start": 1.923,
+    "end": 2.258,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "de",
+    "start": 2.258,
+    "end": 2.592,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "tu",
+    "start": 2.592,
+    "end": 2.927,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "vida...",
+    "start": 2.927,
+    "end": 3.261,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "y",
+    "start": 3.261,
+    "end": 3.596,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "tu",
+    "start": 3.596,
+    "end": 3.93,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "aroma",
+    "start": 3.93,
+    "end": 4.265,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "ya",
+    "start": 4.265,
+    "end": 4.6,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "está",
+    "start": 4.6,
+    "end": 4.934,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "decidiendo",
+    "start": 4.934,
+    "end": 5.269,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "por",
+    "start": 5.269,
+    "end": 5.603,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "ti.",
+    "start": 5.603,
+    "end": 5.938,
+    "part": "hook",
+    "scene": "hook"
+  },
+  {
+    "word": "El",
+    "start": 5.6,
+    "end": 5.95,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "peor",
+    "start": 5.95,
+    "end": 6.301,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "error:",
+    "start": 6.301,
+    "end": 6.651,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "un",
+    "start": 6.651,
+    "end": 7.002,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "perfume",
+    "start": 7.002,
+    "end": 7.352,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "barato",
+    "start": 7.352,
+    "end": 7.702,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "que",
+    "start": 7.702,
+    "end": 8.053,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "huele",
+    "start": 8.053,
+    "end": 8.403,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "a",
+    "start": 8.403,
+    "end": 8.754,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "alcohol",
+    "start": 8.754,
+    "end": 9.104,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "y",
+    "start": 9.104,
+    "end": 9.454,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "arruina",
+    "start": 9.454,
+    "end": 9.805,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "tu",
+    "start": 9.805,
+    "end": 10.155,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "primera",
+    "start": 10.155,
+    "end": 10.506,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "impresión.",
+    "start": 10.506,
+    "end": 10.856,
+    "part": "error",
+    "scene": "error"
+  },
+  {
+    "word": "Si",
+    "start": 11.0,
+    "end": 11.51,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "buscas",
+    "start": 11.51,
+    "end": 12.019,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "estatus",
+    "start": 12.019,
+    "end": 12.529,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "y",
+    "start": 12.529,
+    "end": 13.038,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "autoridad:",
+    "start": 13.038,
+    "end": 13.548,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "Royal",
+    "start": 13.548,
+    "end": 14.057,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "Gold.",
+    "start": 14.057,
+    "end": 14.567,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "Cedro",
+    "start": 14.567,
+    "end": 15.076,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "y",
+    "start": 15.076,
+    "end": 15.586,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "ámbar",
+    "start": 15.586,
+    "end": 16.095,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "que",
+    "start": 16.095,
+    "end": 16.605,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "imponen",
+    "start": 16.605,
+    "end": 17.114,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "respeto.",
+    "start": 17.114,
+    "end": 17.624,
+    "part": "gold",
+    "scene": "gold"
+  },
+  {
+    "word": "Si",
+    "start": 17.6,
+    "end": 18.15,
+    "part": "ice",
+    "scene": "ice"
+  },
+  {
+    "word": "buscas",
+    "start": 18.15,
+    "end": 18.7,
+    "part": "ice",
+    "scene": "ice"
+  },
+  {
+    "word": "energía",
+    "start": 18.7,
+    "end": 19.25,
+    "part": "ice",
+    "scene": "ice"
+  },
+  {
+    "word": "y",
+    "start": 19.25,
+    "end": 19.8,
+    "part": "ice",
+    "scene": "ice"
+  },
+  {
+    "word": "mente",
+    "start": 19.8,
+    "end": 20.35,
+    "part": "ice",
+    "scene": "ice"
+  },
+  {
+    "word": "fría:",
+    "start": 20.35,
+    "end": 20.9,
+    "part": "ice",
+    "scene": "ice"
+  },
+  {
+    "word": "Sapphire",
+    "start": 20.9,
+    "end": 21.45,
+    "part": "ice",
+    "scene": "ice"
+  },
+  {
+    "word": "Ice.",
+    "start": 21.45,
+    "end": 22.0,
+    "part": "ice",
+    "scene": "ice"
+  },
+  {
+    "word": "Frescura",
+    "start": 22.0,
+    "end": 22.55,
+    "part": "ice",
+    "scene": "ice"
+  },
+  {
+    "word": "limpia",
+    "start": 22.55,
+    "end": 23.1,
+    "part": "ice",
+    "scene": "ice"
+  },
+  {
+    "word": "e",
+    "start": 23.1,
+    "end": 23.65,
+    "part": "ice",
+    "scene": "ice"
+  },
+  {
+    "word": "implacable.",
+    "start": 23.65,
+    "end": 24.2,
+    "part": "ice",
+    "scene": "ice"
+  },
+  {
+    "word": "El",
+    "start": 24.2,
+    "end": 24.538,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "currículum",
+    "start": 24.538,
+    "end": 24.875,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "abre",
+    "start": 24.875,
+    "end": 25.213,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "la",
+    "start": 25.213,
+    "end": 25.55,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "puerta,",
+    "start": 25.55,
+    "end": 25.888,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "pero",
+    "start": 25.888,
+    "end": 26.226,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "tu",
+    "start": 26.226,
+    "end": 26.563,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "presencia",
+    "start": 26.563,
+    "end": 26.901,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "es",
+    "start": 26.901,
+    "end": 27.238,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "lo",
+    "start": 27.238,
+    "end": 27.576,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "que",
+    "start": 27.576,
+    "end": 27.914,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "nunca",
+    "start": 27.914,
+    "end": 28.251,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "van",
+    "start": 28.251,
+    "end": 28.589,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "a",
+    "start": 28.589,
+    "end": 28.926,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "olvidar.",
+    "start": 28.926,
+    "end": 29.264,
+    "part": "impacto",
+    "scene": "impacto"
+  },
+  {
+    "word": "¿Cuál",
+    "start": 29.4,
+    "end": 30.046,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "llevarías",
+    "start": 30.046,
+    "end": 30.691,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "tú?",
+    "start": 30.691,
+    "end": 31.337,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "Comenta",
+    "start": 31.337,
+    "end": 31.982,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "Gold",
+    "start": 31.982,
+    "end": 32.628,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "o",
+    "start": 32.628,
+    "end": 33.274,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "Ice.",
+    "start": 33.274,
+    "end": 33.919,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "Lorakh",
+    "start": 33.919,
+    "end": 34.565,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "Fragrance",
+    "start": 34.565,
+    "end": 35.21,
+    "part": "outro",
+    "scene": "outro"
+  },
+  {
+    "word": "House.",
+    "start": 35.21,
+    "end": 35.856,
+    "part": "outro",
+    "scene": "outro"
+  }
+]

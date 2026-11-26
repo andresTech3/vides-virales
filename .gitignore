@@ -1,0 +1,16 @@
+node_modules/
+salida/
+.remotion/
+out/
+references/
+style-video/
+test_root_render.jpg
+*.mp4
+*.mp3
+*.wav
+.env
+.env.local
+.venv/
+remotion-tmp/
+assets/video ref/
+*.mov

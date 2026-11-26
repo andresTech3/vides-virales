@@ -1,0 +1,13 @@
+{
+  "id": "tierra-plana",
+  "idioma": "es",
+  "tema": "¿Qué pasaría si la Tierra fuera plana?",
+  "formato": "what_if",
+  "estilo": "neon_kinetic",
+  "duracionSegundos": 28,
+  "tono": "curioso, asombroso, científico",
+  "datoGrande": "100% DE GRAVEDAD AL CENTRO",
+  "voz": "narrador_masculino_es",
+  "musica": "suspenso_suave",
+  "plataformas": ["tiktok", "reels", "shorts"]
+}

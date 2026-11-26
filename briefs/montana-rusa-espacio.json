@@ -1,0 +1,13 @@
+{
+  "id": "montana-rusa-espacio",
+  "idioma": "es",
+  "tema": "¿Qué pasaría si una montaña rusa se usara en el espacio?",
+  "formato": "what_if",
+  "estilo": "cinematic_dark",
+  "duracionSegundos": 30,
+  "tono": "adrenalina, asombroso, científico",
+  "datoGrande": "40,000 KM/H SIN AIRE",
+  "voz": "es-MX-JorgeNeural",
+  "musica": "epica_motivacion",
+  "plataformas": ["tiktok", "reels", "shorts"]
+}

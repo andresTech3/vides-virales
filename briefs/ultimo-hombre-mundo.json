@@ -1,0 +1,14 @@
+{
+  "id": "ultimo-hombre-mundo",
+  "idioma": "es",
+  "tema": "¿Qué pasaría si solo hay un hombre en el mundo y el resto son mujeres?",
+  "formato": "what_if",
+  "estilo": "neon_kinetic",
+  "duracionSegundos": 33,
+  "tono": "asombroso, científico, alta tensión",
+  "datoGrande": "1 entre 4.000.000.000",
+  "voz": "es-MX-JorgeNeural",
+  "musica": "suspenso_suave",
+  "plataformas": ["tiktok", "reels", "shorts"],
+  "variantes": 1
+}

@@ -1,0 +1,31 @@
+{
+  "id": "marketing-restaurantes",
+  "idioma": "es",
+  "tema": "marketing para restaurantes y atraer clientes",
+  "formato": "top_ranking",
+  "estilo": "neon_kinetic",
+  "duracionSegundos": 38,
+  "tono": "revelador, estratégico, dinámico y magnético",
+  "datoGrande": "300% más clientes",
+  "voz": "es-ES-AlvaroNeural",
+  "musica": "epica_motivacion",
+  "plataformas": ["tiktok", "reels", "shorts"],
+  "itemsRanking": [
+    {
+      "posicion": 3,
+      "titulo": "La Trampa de la Ventana",
+      "descripcion": "Nadie entra a un restaurante vacío. Sienta siempre a tus primeros clientes junto al cristal de la entrada. La prueba social atraerá a los peatones como un imán."
+    },
+    {
+      "posicion": 2,
+      "titulo": "El Postre Inesperado",
+      "descripcion": "Los descuentos agresivos destruyen tu margen. En su lugar, invita un postre cortesía de la casa. La reciprocidad psicológica multiplicará tus reseñas de cinco estrellas."
+    },
+    {
+      "posicion": 1,
+      "titulo": "El Plato Estrella para Redes",
+      "descripcion": "Crea una receta con un efecto visual tan impactante que obligue a cada comensal a sacar el móvil y publicarlo en Instagram o TikTok gratis."
+    }
+  ]
+}
+

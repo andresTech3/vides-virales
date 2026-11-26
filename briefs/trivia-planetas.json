@@ -1,0 +1,15 @@
+{
+  "id": "trivia-planetas",
+  "idioma": "es",
+  "tema": "¿Cuál es el planeta más denso de todo el Sistema Solar?",
+  "formato": "quiz_trivia",
+  "estilo": "neon_kinetic",
+  "duracionSegundos": 20,
+  "tono": "desafiante, rápido, interactivo",
+  "opcionesQuiz": [
+    { "texto": "Júpiter (El Gigante)", "esCorrecta": false },
+    { "texto": "La Tierra (5.51 g/cm³)", "esCorrecta": true },
+    { "texto": "Mercurio (Hierro puro)", "esCorrecta": false }
+  ],
+  "plataformas": ["tiktok", "reels", "shorts"]
+}
