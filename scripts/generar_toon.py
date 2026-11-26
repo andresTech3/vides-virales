@@ -22,8 +22,11 @@ def run(cmd, cwd=ROOT, check=True):
     exe = shutil.which(cmd[0]) or cmd[0]
     res = subprocess.run([exe, *cmd[1:]], cwd=cwd, text=True, encoding="utf-8", errors="replace", capture_output=True)
     if check and res.returncode != 0:
-        print(res.stdout)
-        print(res.stderr, file=sys.stderr)
+        print(f"[ERR] Fallo comando: {' '.join(cmd)} (exit={res.returncode})", flush=True)
+        if res.stdout:
+            print(res.stdout, flush=True)
+        if res.stderr:
+            print(res.stderr, file=sys.stderr, flush=True)
         sys.exit(res.returncode)
     return res
 

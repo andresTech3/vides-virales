@@ -41,7 +41,7 @@ jobs:
       - name: Instalar FFmpeg, Chrome libs y cloudflared
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libasound2t64
+          sudo apt-get install -y ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libasound2t64 libpango-1.0-0 libcairo2 libxshmfence1
           curl -L https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64 -o cloudflared
           chmod +x cloudflared
           sudo mv cloudflared /usr/local/bin/cloudflared
@@ -53,7 +53,7 @@ jobs:
 
       - name: Instalar dependencias Python
         run: |
-          pip install --no-cache-dir numpy edge-tts
+          pip install --no-cache-dir numpy scipy edge-tts
 
       - name: Generar y publicar videos del dia
         env:

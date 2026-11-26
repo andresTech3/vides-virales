@@ -66,7 +66,15 @@ def call_gemini(prompt: str) -> dict:
         raise RuntimeError("Falta GEMINI_API_KEY en .env o GitHub Secrets.")
     primary = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash").strip()
     candidates = []
-    for m in [primary, "gemini-3.8-flash", "gemini-3.7-flash", "gemini-flash-latest", "gemini-3.1-flash-lite"]:
+    for m in [
+        primary,
+        "gemini-3.8-flash",
+        "gemini-3.7-flash",
+        "gemini-2.5-flash",
+        "gemini-3.1-flash-lite",
+        "gemini-2.5-flash-lite",
+        "gemini-flash-latest",
+    ]:
         if m and m not in candidates:
             candidates.append(m)
 
@@ -81,22 +89,32 @@ def call_gemini(prompt: str) -> dict:
     last_err = None
     for model in candidates:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
-        print(f"[Gemini] Intentando {model}...", flush=True)
-        req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"}, method="POST")
-        try:
-            with urllib.request.urlopen(req, timeout=45) as resp:
-                data = json.loads(resp.read().decode("utf-8"))
-            txt = data["candidates"][0]["content"]["parts"][0]["text"]
-            print(f"[Gemini] OK con {model}", flush=True)
-            return json.loads(txt)
-        except urllib.error.HTTPError as e:
-            err_body = e.read().decode("utf-8", errors="replace")
-            last_err = f"{model} HTTP {e.code}: {err_body[:240]}"
-            print(f"[Gemini] {last_err}", flush=True)
-            time.sleep(1)
-        except Exception as e:
-            last_err = f"{model} ERR: {e}"
-            print(f"[Gemini] {last_err}", flush=True)
+        for attempt in range(1, 3):
+            print(f"[Gemini] Intentando {model} (intento {attempt}/2)...", flush=True)
+            req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"}, method="POST")
+            try:
+                with urllib.request.urlopen(req, timeout=90) as resp:
+                    data = json.loads(resp.read().decode("utf-8"))
+                txt = data["candidates"][0]["content"]["parts"][0]["text"].strip()
+                txt = re.sub(r"^```(?:json)?\s*|\s*```$", "", txt, flags=re.I | re.S).strip()
+                parsed = json.loads(txt)
+                print(f"[Gemini] OK con {model}", flush=True)
+                return parsed
+            except urllib.error.HTTPError as e:
+                err_body = e.read().decode("utf-8", errors="replace")
+                last_err = f"{model} HTTP {e.code}: {err_body[:240]}"
+                print(f"[Gemini] {last_err}", flush=True)
+                if e.code in (429, 500, 502, 503, 504) and attempt < 2:
+                    time.sleep(4 * attempt)
+                    continue
+                break
+            except Exception as e:
+                last_err = f"{model} ERR: {e}"
+                print(f"[Gemini] {last_err}", flush=True)
+                if attempt < 2:
+                    time.sleep(3)
+                    continue
+                break
     raise RuntimeError(f"Gemini fallo en todos los modelos: {last_err}")
 
 
