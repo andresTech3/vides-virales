@@ -1,9 +1,6 @@
 name: Generador Diario de Videos Virales
 
 on:
-  schedule:
-    # Todos los dias a las 14:00 UTC (9:00 AM hora Colombia/Peru/EST)
-    - cron: '0 14 * * *'
   workflow_dispatch:
     inputs:
       count:
